@@ -7,3 +7,28 @@
   parent: BaseCircuitboardRecipe
   id: ComputerMassMediaCircuitboard
   result: ComputerMassMediaCircuitboard
+
+- type: latheRecipe
+  parent: BaseCircuitboardRecipe
+  id: CargoTechFabCirtcuitboard
+  result: CargoTechFabCirtcuitboard
+
+- type: latheRecipe
+  parent: BaseCircuitboardRecipe
+  id: CargoTechFabCirtcuitboard
+  result: CargoTechFabCirtcuitboard
+
+- type: latheRecipe
+  parent: BaseCircuitboardRecipe
+  id: EngiTechFabCirtcuitboard
+  result: EngiTechFabCirtcuitboard
+
+- type: latheRecipe
+  parent: BaseCircuitboardRecipe
+  id: ServiceTechFabCirtcuitboard
+  result: ServiceTechFabCirtcuitboard
+
+- type: latheRecipe
+  parent: BaseCircuitboardRecipe
+  id: ScienceTechFabCirtcuitboard
+  result: ScienceTechFabCirtcuitboard
