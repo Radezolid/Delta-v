@@ -139,7 +139,7 @@
       - UtilityBelt
       - Pickaxe
       - ModularReceiver
-      - AppraisalTool
+      #- AppraisalTool # Delta V - Moved to Cargo TechFab.
       - SheetRGlass
       - Beaker
       - Syringe
@@ -166,7 +166,7 @@
       - FoodKebabSkewer
       - SprayBottle
       - MopItem
-      - Holoprojector
+      #- Holoprojector # Delta V - Moved to Service TechFab.
       - Mousetrap
       - LightReplacer
       - TrashBag
@@ -295,21 +295,21 @@
     unlitIdleState: unlit
     unlitRunningState: unlit-building
     staticRecipes:
-    - LargeBeaker
-    - Dropper
+    #- LargeBeaker # Delta V - Moved to Service TechFab.
+    #- Dropper # Delta V -  Moved to Service TechFab.
     - ClothingEyesGlassesChemical
     dynamicRecipes:
-      - PowerDrill
+      #- PowerDrill # Delta V - Moved to Cargo TechFab.
       - MiningDrill
       - MiningDrillDiamond
-      - AnomalyScanner
-      - AnomalyLocator
-      - AnomalyLocatorWide
+      #- AnomalyScanner # Delta V - Moved to Science TechFab.
+      #- AnomalyLocator # Delta V - Moved to Science TechFab.
+      #- AnomalyLocatorWide # Delta V - Moved to Science TechFab.
       - Scalpel
       - Retractor
       - Cautery
       - Drill
-      - WeaponParticleDecelerator
+      #- WeaponParticleDecelerator # Delta V - Moved to Engineering TechFab.
       - HoloprojectorField
       - Saw
       - Hemostat
@@ -319,7 +319,7 @@
       - Implanter
       - PillCanister
       - ChemistryEmptyBottle01
-      - AdvMopItem
+      #- AdvMopItem # Delta V - Moved to Service TechFab.
       - WeaponSprayNozzle
       - ClothingBackpackWaterTank
       - MegaSprayBottle
@@ -331,46 +331,46 @@
       - SignalTrigger
       - VoiceTrigger
       - Igniter
-      - HandHeldMassScanner
+      #- HandHeldMassScanner # Delta V - Moved to Cargo TechFab.
       - PowerCellMicroreactor
       - PowerCellHigh
       - WeaponPistolCHIMP
       - ClothingMaskWeldingGas
-      - MineralScannerEmpty
-      - AdvancedMineralScannerEmpty
+      #- MineralScannerEmpty # Delta V - Moved to Cargo TechFab.
+      #- AdvancedMineralScannerEmpty # Delta V - Moved to Cargo TechFab.
       - WeaponGauntletGorilla
       - SynthesizerInstrument
       - ClothingShoesBootsMagSci
       - ClothingShoesBootsMoon
       - ClothingShoesBootsSpeed
       - NodeScanner
-      - HolofanProjector
+      #- HolofanProjector # Delta V - Moved to Engineering TechFab.
       - BluespaceBeaker
       - SyringeBluespace
       #- WeaponForceGun # DeltaV
       - WeaponLaserSvalinn
-      - WeaponProtoKineticAccelerator
+      #- WeaponProtoKineticAccelerator # Delta V - Moved to Cargo TechFab.
       - WeaponGrapplingGun
       #- WeaponTetherGun # DeltaV
       - ClothingBackpackHolding
       - ClothingBackpackSatchelHolding
       - ClothingBackpackDuffelHolding
-      - WelderExperimental
-      - JawsOfLife
+      #- WelderExperimental # Delta V - Moved to Engineering TechFab.
+      #- JawsOfLife # Delta V - Moved to Engineering TechFab.
       - FauxTileAstroGrass
       - FauxTileMowedAstroGrass
       - FauxTileJungleAstroGrass
       - FauxTileAstroIce
       - FauxTileAstroSnow
-      - OreBagOfHolding
+      #- OreBagOfHolding  # Delta V - Moved to Cargo TechFab.
       - DeviceQuantumSpinInverter
       # Begin DeltaV additions
       - CoreSilver # Nyanotrasen - Silver Golem core
-      - HandheldCrewMonitor
-      - PlantBagOfHolding
-      - RCDAmmo
-      - Fulton
-      - FultonBeacon
+      #- HandheldCrewMonitor # Delta V - Moved to Medical TechFab.
+      #- PlantBagOfHolding # Delta V - Moved to Service TechFab.
+      #- RCDAmmo # Delta V - Moved to Engineering TechFab.
+      #- Fulton # Delta V - Moved to Cargo TechFab.
+      #- FultonBeacon # Delta V - Moved to Cargo TechFab.
       - PowerCellHyper
       # End DeltaV additions
   - type: EmagLatheRecipes
@@ -1705,6 +1705,7 @@
       - Multitool
       - TRayScanner
       - SprayPainter
+      - Signaller
       - AirAlarmElectronics
       - DoorElectronics
       - FirelockElectronics
