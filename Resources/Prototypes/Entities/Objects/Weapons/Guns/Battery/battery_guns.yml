@@ -446,6 +446,7 @@
     - Taser
     - Sidearm
     - ConcealCarry # DeltaV - can be stowed in military boots for now
+  - type: PacifismAllowedGun # DeltaV - Allows pacifists to use the gun.
 
 - type: entity
   name: disabler
@@ -474,6 +475,7 @@
     guides:
     - Security
     - Antagonists
+  - type: PacifismAllowedGun # DeltaV - Allows pacifists to use the gun.
 
 - type: entity
   name: disabler SMG
@@ -511,6 +513,7 @@
     zeroVisible: true
   - type: StaticPrice
     price: 260
+  - type: PacifismAllowedGun # DeltaV - Allows pacifists to use the gun.
 
 - type: entity
   name: taser

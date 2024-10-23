@@ -254,7 +254,7 @@
     impactEffect: BulletImpactEffectDisabler
     damage:
       types:
-        Heat: 5
+        Heat: 0 # DeltaV - Removed disabler's heat damage.
     soundHit:
       collection: WeakHit
     forceSound: true
@@ -294,7 +294,7 @@
     impactEffect: BulletImpactEffectDisabler
     damage:
       types:
-        Heat: 1
+        Heat: 0 #DeltaV - Removed heat damage to allow pacifists to use disablers.
     soundHit:
       collection: WeakHit
     forceSound: true
@@ -964,7 +964,7 @@
     impactEffect: BulletImpactEffectDisabler
     damage:
       types:
-        Heat: 2
+        Heat: 0 # DeltaV - Remove the heat damage from the disabler for pacifists to use.
     soundHit:
       collection: WeakHit
     forceSound: true
