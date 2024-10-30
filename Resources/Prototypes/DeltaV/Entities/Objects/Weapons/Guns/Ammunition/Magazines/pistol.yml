@@ -118,3 +118,78 @@
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
+
+- type: entity
+  id: BaseMagazinePistolSpecialBooker
+  name: Booker magazine (.38 special)
+  parent: BaseItem
+  abstract: true
+  components:
+  - type: Tag
+    tags:
+      - MagazinePistolSpecialBooker
+  - type: BallisticAmmoProvider
+    mayTransfer: true
+    whitelist:
+      tags:
+        - CartridgeSpecial
+    capacity: 12
+  - type: Item
+    size: Small
+  - type: ContainerContainer
+    containers:
+      ballistic-ammo: !type:Container
+  - type: Sprite
+    sprite: DeltaV/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/booker_mag.rsi
+    layers:
+    - state: base
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-1
+      map: ["enum.GunVisualLayers.Mag"]
+  - type: MagazineVisuals
+    magState: mag
+    steps: 7
+    zeroVisible: false
+  - type: Appearance
+
+- type: entity
+  id: MagazinePistolSpecialBooker
+  name: Booker magazine (.38 special)
+  parent: BaseMagazinePistolSpecialBooker
+  components:
+  - type: Sprite
+    layers:
+    - state: red
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-1
+      map: ["enum.GunVisualLayers.Mag"]
+  - type: BallisticAmmoProvider
+    proto: CartridgeSpecial
+
+- type: entity
+  id: MagazinePistolSpecialBookerRubber
+  name: Booker magazine (.38 special rubber)
+  parent: BaseMagazinePistolSpecialBooker
+  components:
+  - type: Sprite
+    layers:
+    - state: rubber
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-1
+      map: ["enum.GunVisualLayers.Mag"]
+  - type: BallisticAmmoProvider
+    proto: CartridgeSpecialRubber
+
+- type: entity
+  id: MagazinePistolSpecialBookerPractice
+  name: Booker magazine (.38 special practice)
+  parent: BaseMagazinePistolSpecialBooker
+  components:
+  - type: Sprite
+    layers:
+    - state: practice
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-1
+      map: ["enum.GunVisualLayers.Mag"]
+  - type: BallisticAmmoProvider
+    proto: CartridgeSpecialPractice
