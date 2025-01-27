@@ -28,3 +28,52 @@
     - type: BatterySelfRecharger
       autoRecharge: true
       autoRechargeRate: 2
+
+- type: entity
+  parent: BaseItem
+  id: WeaponLauncherSingleGrenade
+  name: single-shot grenade launcher
+  description: IDK.
+  components:
+  - type: Sprite
+    sprite: _DV/Objects/Weapons/Guns/Launchers/china_sec.rsi
+    layers:
+    - state: icon
+      map: ["enum.GunVisualLayers.Base"]
+  - type: Item
+    size: Large
+  - type: Clothing
+    quickEquip: false
+    sprite: _DV/Objects/Weapons/Guns/Launchers/china_sec.rsi
+    slots:
+    - Back
+    - suitStorage
+  - type: Gun
+    fireRate: 1
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+    soundGunshot:
+      path: /Audio/Weapons/Guns/Gunshots/grenade_launcher.ogg
+    capacity: 1
+    soundInsert:
+      path: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
+  - type: Appearance
+  - type: ContainerContainer
+    containers:
+      gun_chamber: !type:ContainerSlot
+  - type: ItemSlots
+    slots:
+      gun_chamber:
+        name: Chamber
+        priority: 1
+        whitelist:
+          tags:
+          - Grenade
+  - type: ChamberMagazineAmmoProvider
+    autoCycle: false
+    boltClosed: false
+    canRack: false
+    soundBoltClosed: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
+    soundBoltOpened: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
+    soundRack: /Audio/Weapons/Guns/Cock/revolver_cock.ogg
