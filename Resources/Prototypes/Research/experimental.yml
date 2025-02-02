@@ -12,6 +12,7 @@
   recipeUnlocks:
   - ProximitySensor
   - ExosuitFabricatorMachineCircuitboard
+  - ClothingEyesHudDiagnostic
 
 - type: technology
   id: BasicAnomalousResearch
@@ -70,6 +71,7 @@
   recipeUnlocks:
   - ClothingShoesBootsMagSci
   - ClothingShoesBootsMoon
+  - ClothingShoesBootsSecurityMagboots # DeltaV - Added security magboots.
 
 - type: technology
   id: AnomalyCoreHarnessing
