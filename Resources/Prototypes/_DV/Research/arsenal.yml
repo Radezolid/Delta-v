@@ -121,7 +121,7 @@
   cost: 12500
   recipeUnlocks:
   - WeaponEnergyGunPistol
-  - WeaponRifleLaser
+  - WeaponGunLaserCarbineAutomatic
 
 - type: technology
   id: IncendiaryLaserWeapons

@@ -235,8 +235,8 @@
 - type: entity
   parent: BaseWeaponBattery
   id: WeaponGunLaserCarbineAutomatic
-  name: IK-60 energy carbine
-  description: "A 30 round hybrid-fire energy carbine."
+  name: YK-60 energy carbine
+  description: "An advanced battery powered hybrid-fire laser carbine, cousin of the famous IK-60"
   components:
   - type: Sprite
     sprite: _DV/Objects/Weapons/Guns/Battery/energygun_carbine.rsi
@@ -256,11 +256,11 @@
     selectedMode: SemiAuto
     fireRate: 3
     availableModes:
-      - SemiAuto
-      - FullAuto
+    - SemiAuto
+    - FullAuto
   - type: Battery
-    maxCharge: 3000
-    startingCharge: 3000
+    maxCharge: 2500
+    startingCharge: 2500
   - type: ProjectileBatteryAmmoProvider
     proto: BulletEnergyGunLaser
     fireCost: 100

@@ -321,8 +321,8 @@
 
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
-  id: WeaponRifleLaser
-  result: WeaponRifleLaser
+  id: WeaponGunLaserCarbineAutomatic
+  result: WeaponGunLaserCarbineAutomatic
   materials:
     Steel: 1500
     Glass: 1000
