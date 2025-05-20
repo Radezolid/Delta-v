@@ -97,7 +97,7 @@
   - ScienceExplosives # sec gets everything for modular grenade making that sci does
   id: SecurityExplosives
   recipes:
-  #- ExplosivePayload # DeltaV - Removed
+  - ExplosivePayload
   - GrenadeBlast
   - GrenadeEMP
   - GrenadeFlash
