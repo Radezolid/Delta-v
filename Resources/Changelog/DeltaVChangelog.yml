@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: 'TESTMERGE: Teslas will once again move toward energy sources.'
-    type: Tweak
-  id: 1718
-  time: '2025-10-05T23:25:08.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4394
 - author: AeraAuling
   changes:
   - message: Added Shadow Damage
@@ -4393,4 +4386,11 @@
   id: 2217
   time: '2026-04-04T19:39:24.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5516
+- author: Stxcking
+  changes:
+  - message: Dragons and Sharkminnows are no longer affected by spacewind.
+    type: Fix
+  id: 2218
+  time: '2026-04-05T01:04:18.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5523
 Order: 1
