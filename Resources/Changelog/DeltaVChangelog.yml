@@ -1,19 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Added Shadow Damage
-    type: Add
-  - message: Added the Harbinger Bundle for botanists and chaplains
-    type: Add
-  - message: Security hardsuits now have some minor metaphysical damage resistance
-    type: Tweak
-  - message: The mystagogue hardsuit also has metaphysical damage resistance
-    type: Tweak
-  - message: Holy water heals shadow damage and deals holy damage.
-    type: Tweak
-  id: 1719
-  time: '2025-10-06T00:22:30.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4440
 - author: kotobdev
   changes:
   - message: The Vacuous Chantry, Vacuous Spire, and Multispectral Inhibitor are once
@@ -4393,4 +4378,11 @@
   id: 2218
   time: '2026-04-05T01:04:18.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5523
+- author: TehFlaminTaco
+  changes:
+  - message: Fixed critical error effecting some players.
+    type: Fix
+  id: 2219
+  time: '2026-04-05T08:55:55.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5615
 Order: 1
