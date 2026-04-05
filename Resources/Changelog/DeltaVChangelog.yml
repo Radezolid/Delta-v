@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: Prober lockouts are no more.
-    type: Tweak
-  id: 1721
-  time: '2025-10-06T00:38:35.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4446
 - author: KittenColony, Minerva
   changes:
   - message: Records now support monospace.
@@ -4384,4 +4377,11 @@
   id: 2220
   time: '2026-04-05T11:15:34.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5600
+- author: Stxcking
+  changes:
+  - message: Fixed Energy Gun Fire Mode Pop-up.
+    type: Fix
+  id: 2221
+  time: '2026-04-05T13:24:32.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5624
 Order: 1
