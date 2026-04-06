@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: NicoSGF64
-  changes:
-  - message: Ported the Pressure release valve from upstream
-    type: Add
-  - message: More atmos devices can now be constructed on layers from the construction
-      menu.
-    type: Add
-  id: 1724
-  time: '2025-10-06T01:02:52.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4452
 - author: Minerva
   changes:
   - message: Tape recorders can now be controlled using four signal ports corresponding
@@ -4392,4 +4382,14 @@
   id: 2223
   time: '2026-04-06T00:40:48.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5542
+- author: muonpoly
+  changes:
+  - message: Added missing construction graphs to various furniture such as counters
+      and desks, and added new railings.
+    type: Add
+  - message: Tweaked various sprites to fix minor graphical bugs with directions
+    type: Tweak
+  id: 2224
+  time: '2026-04-06T10:55:48.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5355
 Order: 1
