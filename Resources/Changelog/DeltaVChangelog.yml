@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: Minerva
   changes:
-  - message: Tape recorders can now be controlled using four signal ports corresponding
-      to their buttons.
-    type: Add
-  id: 1725
-  time: '2025-10-06T03:42:56.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4437
-- author: Minerva
-  changes:
   - message: Janitorial and Engineering holosigns now emit light.
     type: Tweak
   id: 1726
@@ -4392,4 +4384,12 @@
   id: 2224
   time: '2026-04-06T10:55:48.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5355
+- author: rebe83
+  changes:
+  - message: Silicons will no longer get an ion law forcing them to call the shuttle.
+      Everyone hated that.
+    type: Tweak
+  id: 2225
+  time: '2026-04-06T11:04:58.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5591
 Order: 1
