@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Proxysseia
-  changes:
-  - message: Promoted CMOs or Surgeons are now just as fast at surgery as their roundstart
-      counterparts.
-    type: Tweak
-  id: 1728
-  time: '2025-10-06T21:24:20.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4322
 - author: Solaris7518
   changes:
   - message: Added Super Synthesizers to trinkets! Musicians finally get a reward
@@ -4392,4 +4384,12 @@
   id: 2227
   time: '2026-04-07T10:23:17.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5374
+- author: BarryNorfolk
+  changes:
+  - message: Fixed Target Objective immune traits (Marked as Protected) not applying
+      to antags.
+    type: Fix
+  id: 2228
+  time: '2026-04-07T16:38:48.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5386
 Order: 1
