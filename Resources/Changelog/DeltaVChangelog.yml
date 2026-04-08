@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Solaris7518
-  changes:
-  - message: Music may sound different now!
-    type: Add
-  id: 1731
-  time: '2025-10-06T23:33:32.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4463
 - author: Ertanic and whatston3, Minerva
   changes:
   - message: The spray painter can now paint gas canisters, crates, lockers, and floor
@@ -4388,4 +4381,11 @@
   id: 2230
   time: '2026-04-08T13:25:57.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5616
+- author: rebe83
+  changes:
+  - message: The meat pizza recipe now uses cutlets (66% less meat).
+    type: Tweak
+  id: 2231
+  time: '2026-04-08T13:26:31.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5602
 Order: 1
