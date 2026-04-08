@@ -1,15 +1,4 @@
 ﻿Entries:
-- author: Solaris7518
-  changes:
-  - message: Added Super Synthesizers to trinkets! Musicians finally get a reward
-      for all of their pain and suffering!
-    type: Add
-  - message: Super Synthesizers can now be worn on the neck... Is it me or does that
-      RPG-Wielding Captain have their own boss music?
-    type: Add
-  id: 1729
-  time: '2025-10-06T21:31:21.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4462
 - author: weskerbun
   changes:
   - message: Added snake tails for reptilians
@@ -4392,4 +4381,11 @@
   id: 2228
   time: '2026-04-07T16:38:48.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5386
+- author: ashley-graves
+  changes:
+  - message: Fixed minor spelling mistake on the interdyne chemist uniform.
+    type: Fix
+  id: 2229
+  time: '2026-04-08T08:47:52.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5637
 Order: 1
