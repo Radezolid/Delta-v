@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: weskerbun
-  changes:
-  - message: Added snake tails for reptilians
-    type: Add
-  id: 1730
-  time: '2025-10-06T21:34:08.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4493
 - author: Solaris7518
   changes:
   - message: Music may sound different now!
@@ -4388,4 +4381,11 @@
   id: 2229
   time: '2026-04-08T08:47:52.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5637
+- author: Minerva
+  changes:
+  - message: Medical Doctors may now select DV-specific scrubs in loadout.
+    type: Tweak
+  id: 2230
+  time: '2026-04-08T13:25:57.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5616
 Order: 1
