@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: Security officer sidearms are now loaded with lethal rounds at roundstart.
-    type: Tweak
-  id: 1733
-  time: '2025-10-07T00:07:30.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4359
 - author: Solaris7518
   changes:
   - message: Fixed Super Synthesizers not being able to be played while being worn
@@ -4384,4 +4377,11 @@
   id: 2232
   time: '2026-04-08T13:35:33.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5596
+- author: rebe83
+  changes:
+  - message: The guidebook for devil is now accurate to Space Law.
+    type: Fix
+  id: 2233
+  time: '2026-04-08T17:54:06.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5604
 Order: 1
