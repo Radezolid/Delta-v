@@ -1,15 +1,4 @@
 ﻿Entries:
-- author: Ertanic and whatston3, Minerva
-  changes:
-  - message: The spray painter can now paint gas canisters, crates, lockers, and floor
-      decals.
-    type: Add
-  - message: The spray painter now consumes compressed paint, available from the YouTool
-      or printable in some lathes.
-    type: Tweak
-  id: 1732
-  time: '2025-10-06T23:56:20.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4480
 - author: kotobdev
   changes:
   - message: Security officer sidearms are now loaded with lethal rounds at roundstart.
@@ -4388,4 +4377,11 @@
   id: 2231
   time: '2026-04-08T13:26:31.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5602
+- author: kotobdev
+  changes:
+  - message: Kitsune are now far easier to pet!
+    type: Tweak
+  id: 2232
+  time: '2026-04-08T13:35:33.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5596
 Order: 1
