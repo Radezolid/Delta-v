@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Solaris7518
-  changes:
-  - message: Fixed Super Synthesizers not being able to be played while being worn
-      on the neck.
-    type: Fix
-  id: 1734
-  time: '2025-10-07T23:55:50.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4505
 - author: Vapetastic-Gaming
   changes:
   - message: Tweaked Midround antag weights
@@ -4384,4 +4376,14 @@
   id: 2233
   time: '2026-04-08T17:54:06.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5604
+- author: Stxcking
+  changes:
+  - message: Poppies can make Spaceman's Trumpets now, but they also yield less Polypyrylium
+      Oligomers.
+    type: Tweak
+  - message: Lily seeds are available in the seed vendor!
+    type: Tweak
+  id: 2234
+  time: '2026-04-08T18:17:34.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5576
 Order: 1
