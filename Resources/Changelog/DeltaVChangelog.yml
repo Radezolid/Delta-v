@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: kotobdev
   changes:
-  - message: The Asakim Warrior, a new midround shuttle ghostrole, has been added.
-    type: Add
-  id: 1736
-  time: '2025-10-08T23:31:32.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4459
-- author: kotobdev
-  changes:
   - message: Avali can now see slightly further.
     type: Fix
   id: 1737
@@ -4386,4 +4379,12 @@
   id: 2235
   time: '2026-04-09T17:13:30.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5641
+- author: Minerva
+  changes:
+  - message: Scientists and Roboticists can now select long labcoats in loadout. They
+      are also now available in the SciDrobe.
+    type: Tweak
+  id: 2236
+  time: '2026-04-10T08:48:26.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5633
 Order: 1
