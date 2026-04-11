@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: BarryNorfolk
-  changes:
-  - message: Enabled any/all sec dogs to wear K9 armour
-    type: Tweak
-  id: 1738
-  time: '2025-10-11T17:04:41.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4514
 - author: Field Command
   changes:
   - message: Arms dealers now have melee weapons too. There is no longer a need to
@@ -4388,4 +4381,11 @@
   id: 2237
   time: '2026-04-10T17:35:16.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5563
+- author: Coryler
+  changes:
+  - message: ERT Access
+    type: Add
+  id: 2238
+  time: '2026-04-11T12:46:55.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5639
 Order: 1
