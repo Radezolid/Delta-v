@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: Field Command
   changes:
-  - message: Arms dealers now have melee weapons too. There is no longer a need to
-      barter for uranium, simply sell it for maximum profit.
-    type: Tweak
-  id: 1739
-  time: '2025-10-12T21:17:46.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4508
-- author: Field Command
-  changes:
   - message: NTES Basu, Census, and Traveling cuisines have been updated to address
       missing mapping standards.
     type: Tweak
@@ -4388,4 +4380,11 @@
   id: 2238
   time: '2026-04-11T12:46:55.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5639
+- author: Minerva
+  changes:
+  - message: Kitsune now shares more markings with Felinid and Vulpkanin.
+    type: Tweak
+  id: 2239
+  time: '2026-04-11T13:14:15.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5607
 Order: 1
