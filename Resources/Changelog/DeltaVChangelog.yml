@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Field Command
-  changes:
-  - message: NTES Basu, Census, and Traveling cuisines have been updated to address
-      missing mapping standards.
-    type: Tweak
-  id: 1740
-  time: '2025-10-12T21:22:01.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4517
 - author: Spielern
   changes:
   - message: Removed the Synthetic & Animal Species markings for IPCs. Please make
@@ -4387,4 +4379,14 @@
   id: 2239
   time: '2026-04-11T13:14:15.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5607
+- author: BarryNorfolk
+  changes:
+  - message: Secdog grapple is now breakable from damage.
+    type: Tweak
+  - message: Secdog's grapple no longer immediately knocks you down, but just drains
+      your stamina and slows you.
+    type: Tweak
+  id: 2240
+  time: '2026-04-11T15:35:25.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5337
 Order: 1
