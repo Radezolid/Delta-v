@@ -1,4 +1,4 @@
-Entries:
+﻿Entries:
 - author: TehFlaminTaco
   changes:
   - message: Diona now heal in light but suffer in darkness.
@@ -4399,4 +4399,11 @@ Entries:
   id: 2242
   time: '2026-04-11T18:27:39.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5316
+- author: BarryNorfolk
+  changes:
+  - message: Give several entities more than 1 blood.
+    type: Tweak
+  id: 2243
+  time: '2026-04-12T03:47:10.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5651
 Order: 1
