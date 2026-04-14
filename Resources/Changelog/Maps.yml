@@ -934,4 +934,13 @@
   id: 108
   time: '2026-04-12T18:56:00.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5588
+- author: turtlemutt
+  changes:
+  - message: Removed the RPG. Antags rejoice!
+    type: Remove
+  - message: Fixed some missing LV cables, the kitchen freezer, and some door tiles.
+    type: Tweak
+  id: 109
+  time: '2026-04-14T12:33:19.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5660
 Order: 3
