@@ -943,4 +943,11 @@
   id: 109
   time: '2026-04-14T12:33:19.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5660
+- author: biddygelson
+  changes:
+  - message: 'Academy: replaced gun safe in armory with advanced gun safe.'
+    type: Tweak
+  id: 110
+  time: '2026-04-14T12:43:20.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5659
 Order: 3
