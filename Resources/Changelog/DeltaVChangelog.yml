@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: BarryNorfolk
-  changes:
-  - message: Laika can now indeed wear K9 armour again
-    type: Fix
-  id: 1744
-  time: '2025-10-13T18:40:47.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4523
 - author: kotobdev
   changes:
   - message: The Head of Security's trenchcoat is available once more, in both loadouts
@@ -4405,4 +4398,11 @@
   id: 2244
   time: '2026-04-14T06:29:06.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5663
+- author: Radezolid
+  changes:
+  - message: The turret at the syndicate ruin is no longer on the outside.
+    type: Tweak
+  id: 2245
+  time: '2026-04-14T12:14:43.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5655
 Order: 1
