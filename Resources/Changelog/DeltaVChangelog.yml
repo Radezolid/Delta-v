@@ -1,16 +1,4 @@
 ﻿Entries:
-- author: EmberAstra
-  changes:
-  - message: Fixed the criminal records computer board being called "security records"
-    type: Fix
-  - message: Fixed robotic arms (and other automation machines) icons in the circuit
-      lathe.
-    type: Fix
-  - message: Fixed unholy water's guidebook description.
-    type: Fix
-  id: 1746
-  time: '2025-10-14T13:39:59.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4511
 - author: TehFlaminTaco
   changes:
   - message: Added a new psionic ability, "Fractured Form"
@@ -4443,4 +4431,11 @@
   id: 2246
   time: '2026-04-15T20:33:58.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/4788
+- author: SirWarock
+  changes:
+  - message: Fixed non-psionics from hearing telepathy!
+    type: Fix
+  id: 2247
+  time: '2026-04-16T00:22:17.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5674
 Order: 1
