@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Harbingers have increased the budget for accursed scythe fabrication.
-      It should be a bit more effective now.
-    type: Tweak
-  id: 1759
-  time: '2025-10-21T18:39:12.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4543
 - author: Niomi0
   changes:
   - message: Roboticists/Borgs now have access to a new generic borg module containing
@@ -4428,4 +4420,19 @@
   id: 2259
   time: '2026-05-01T18:00:31.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5730
+- author: SalDragonsNOA
+  changes:
+  - message: Added sprites for four new outfits for the Boxer, inspired by the ancient
+      Terran art known as "rasslin"!
+    type: Add
+  - message: Added sprites for three masks for Boxers, inspired by the fearless masked
+      wrestlers of antiquity!
+    type: Add
+  - message: Added new uniforms and masks to the Boxing Drobe!
+    type: Add
+  - message: Added new uniforms and masks to Loadout options for Boxer!
+    type: Add
+  id: 2260
+  time: '2026-05-02T19:46:39.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5687
 Order: 1
