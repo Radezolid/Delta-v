@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: Cepelinas1
-  changes:
-  - message: De-metashielded Code Epsilon. DeathSquads or DAP are still metashielded
-      however.
-    type: Add
-  - message: Added Alert Procedure entry for Code Epsilon.
-    type: Add
-  id: 1762
-  time: '2025-10-22T20:26:56.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/3867
 - author: EmberAstra
   changes:
   - message: The syndicate has now weaponized mothroaches. Available in convenient
@@ -4434,4 +4424,11 @@
   id: 2262
   time: '2026-05-03T09:00:41.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5587
+- author: DuskyJay
+  changes:
+  - message: Fixed Plasma and Uranium fuel rods not registering properly.
+    type: Fix
+  id: 2263
+  time: '2026-05-03T12:04:58.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5771
 Order: 1
