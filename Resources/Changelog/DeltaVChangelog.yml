@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: CheddaCheez
-  changes:
-  - message: Added a new jumpskirt for Clowns, ported from Starlight!
-    type: Add
-  - message: Added blushing masks to Clown and Mime loadouts.
-    type: Add
-  id: 1767
-  time: '2025-10-25T00:57:02.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4561
 - author: AeraAuling
   changes:
   - message: Added appropriate interactions with shadow damage to some relevant creatures
@@ -4431,4 +4422,11 @@
   id: 2267
   time: '2026-05-03T17:59:41.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5744
+- author: Eternally-Confused
+  changes:
+  - message: The new medical clothing is now available in the uniform printer!
+    type: Add
+  id: 2268
+  time: '2026-05-03T19:45:41.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5741
 Order: 1
