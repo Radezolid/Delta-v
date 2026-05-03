@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Added appropriate interactions with shadow damage to some relevant creatures
-    type: Tweak
-  id: 1768
-  time: '2025-10-25T15:41:57.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4541
 - author: BriBrooo
   changes:
   - message: Surgery room reorganized
@@ -4429,4 +4422,11 @@
   id: 2268
   time: '2026-05-03T19:45:41.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5741
+- author: Velcroboy
+  changes:
+  - message: Added Poppy the engineer possum.
+    type: Add
+  id: 2269
+  time: '2026-05-03T19:46:59.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5770
 Order: 1
