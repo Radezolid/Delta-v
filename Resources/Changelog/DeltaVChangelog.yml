@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: Niomi0
-  changes:
-  - message: Roboticists/Borgs now have access to a new generic borg module containing
-      a spray painter, magic crayon and hand labeler. To allow restoration, pipe spraying
-      and other artistic endeavors.
-    type: Add
-  id: 1760
-  time: '2025-10-22T10:00:50.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4532
 - author: Toby222
   changes:
   - message: All winter clothing now properly protects against zombies
@@ -4435,4 +4426,12 @@
   id: 2260
   time: '2026-05-02T19:46:39.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5687
+- author: rebe83
+  changes:
+  - message: Advanced engineering goggles with integrated t-ray scanner and robotic
+      diagnostic HUD and flash protection are now available with advanced tools research!
+    type: Add
+  id: 2261
+  time: '2026-05-03T08:48:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5688
 Order: 1
