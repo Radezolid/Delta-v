@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Proxysseia
-  changes:
-  - message: 'guns are now cheaper, write a proper CL later :godo:'
-    type: Tweak
-  id: 1764
-  time: '2025-10-24T01:36:03.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4555
 - author: AeraAuling
   changes:
   - message: Now people with jobs can wear cute dresses too.
@@ -4430,4 +4423,11 @@
   id: 2264
   time: '2026-05-03T12:56:20.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5736
+- author: Stxcking
+  changes:
+  - message: Station can buy shuttles using the shipyard console again!
+    type: Fix
+  id: 2265
+  time: '2026-05-03T13:08:08.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5524
 Order: 1
