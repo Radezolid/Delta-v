@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Toby222
-  changes:
-  - message: All winter clothing now properly protects against zombies
-    type: Fix
-  id: 1761
-  time: '2025-10-22T15:28:22.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4560
 - author: Cepelinas1
   changes:
   - message: De-metashielded Code Epsilon. DeathSquads or DAP are still metashielded
@@ -4434,4 +4427,11 @@
   id: 2261
   time: '2026-05-03T08:48:21.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5688
+- author: rebe83
+  changes:
+  - message: NT armory has added radio holsters to sec webbings and belts!
+    type: Tweak
+  id: 2262
+  time: '2026-05-03T09:00:41.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5587
 Order: 1
