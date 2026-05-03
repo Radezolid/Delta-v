@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Now people with jobs can wear cute dresses too.
-    type: Tweak
-  id: 1765
-  time: '2025-10-24T01:37:55.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4542
 - author: Eternally-Confused
   changes:
   - message: Chemist winter boots are now available in the chemdrobe.
@@ -4430,4 +4423,11 @@
   id: 2265
   time: '2026-05-03T13:08:08.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5524
+- author: BarryNorfolk
+  changes:
+  - message: Kitsunes can no longer polymorph as Zombies
+    type: Fix
+  id: 2266
+  time: '2026-05-03T13:20:07.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5376
 Order: 1
