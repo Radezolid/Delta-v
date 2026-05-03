@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: EmberAstra
-  changes:
-  - message: The syndicate has now weaponized mothroaches. Available in convenient
-      grenade form!
-    type: Add
-  id: 1763
-  time: '2025-10-23T23:59:55.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4558
 - author: Proxysseia
   changes:
   - message: 'guns are now cheaper, write a proper CL later :godo:'
@@ -4431,4 +4423,11 @@
   id: 2263
   time: '2026-05-03T12:04:58.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5771
+- author: Sugarcane
+  changes:
+  - message: Fixed Techfabs not following the camera's rotation.
+    type: Fix
+  id: 2264
+  time: '2026-05-03T12:56:20.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5736
 Order: 1
