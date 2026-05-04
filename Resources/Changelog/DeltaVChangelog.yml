@@ -1,19 +1,4 @@
 ﻿Entries:
-- author: BriBrooo
-  changes:
-  - message: Surgery room reorganized
-    type: Tweak
-  - message: Detective room has its own bedroom to fit an evidence locker
-    type: Tweak
-  - message: Library now has a display case
-    type: Tweak
-  - message: Prison intercoms now are the right ones
-    type: Fix
-  - message: Departmental lock boxes are now available
-    type: Fix
-  id: 1769
-  time: '2025-10-25T22:45:52.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4489
 - author: SirWarock
   changes:
   - message: Cryotubes are now smart - They'll evenly inject 0.5u of every chemical
@@ -4429,4 +4414,11 @@
   id: 2269
   time: '2026-05-03T19:46:59.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5770
+- author: Stxcking
+  changes:
+  - message: Added an Avali Plushie !
+    type: Add
+  id: 2270
+  time: '2026-05-04T07:49:19.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5761
 Order: 1
