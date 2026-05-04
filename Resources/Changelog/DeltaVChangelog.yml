@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: EmberAstra
-  changes:
-  - message: Fixed Space Adders being attacked by other salvage mobs.
-    type: Fix
-  id: 1771
-  time: '2025-10-26T00:09:23.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4503
 - author: MantasDab360
   changes:
   - message: Fixed IPC's not being able to polymorph.
@@ -4417,4 +4410,13 @@
   id: 2271
   time: '2026-05-04T08:55:22.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5747
+- author: Velcroboy
+  changes:
+  - message: 'The Hive: Removed superweapon fun!'
+    type: Remove
+  - message: 'The Hive: Reinforced Logi a little'
+    type: Tweak
+  id: 2272
+  time: '2026-05-04T09:16:40.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5733
 Order: 1
