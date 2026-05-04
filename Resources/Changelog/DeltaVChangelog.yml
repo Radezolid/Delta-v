@@ -1,15 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Cryotubes are now smart - They'll evenly inject 0.5u of every chemical
-      present in the beaker! No overloading anymore!
-    type: Tweak
-  - message: Trinoxadone's metabolism has been nerfed to 0.5u/s to accommodate the
-      above change.
-    type: Tweak
-  id: 1770
-  time: '2025-10-25T23:47:19.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4456
 - author: EmberAstra
   changes:
   - message: Fixed Space Adders being attacked by other salvage mobs.
@@ -4421,4 +4410,11 @@
   id: 2270
   time: '2026-05-04T07:49:19.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5761
+- author: Sugarcane
+  changes:
+  - message: Paper can no longer be attached to nuclear reactor flatpacks
+    type: Fix
+  id: 2271
+  time: '2026-05-04T08:55:22.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5747
 Order: 1
