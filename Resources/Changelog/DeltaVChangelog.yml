@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: MantasDab360
-  changes:
-  - message: Fixed IPC's not being able to polymorph.
-    type: Fix
-  id: 1772
-  time: '2025-10-26T18:35:48.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4545
 - author: EmberAstra
   changes:
   - message: Added scar markings for Vox!
@@ -4419,4 +4412,11 @@
   id: 2272
   time: '2026-05-04T09:16:40.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5733
+- author: Sugarcane, ErrorByte
+  changes:
+  - message: A beret for the virology department, obtainable from the Virodrobe!
+    type: Add
+  id: 2273
+  time: '2026-05-04T09:44:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5729
 Order: 1
