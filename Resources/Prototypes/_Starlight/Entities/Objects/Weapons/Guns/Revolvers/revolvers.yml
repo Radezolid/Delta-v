@@ -50,9 +50,10 @@
     capacity: 2
     chambers: [ null, null]
     ammoSlots: [ null, null]
-  - type: Construction
-    graph: ImprovisedRevolverGraph
-    node: shotgun
+  # DeltaV - Make unobtainable
+  #- type: Construction
+  #  graph: ImprovisedRevolverGraph
+  #  node: shotgun
   - type: WeaponDismantleOnShoot
     dismantleChance: 0.10
     items:
