@@ -299,6 +299,7 @@
                 SheetSteel:
                   min: 2
                   max: 3
-    - type: Construction
-      graph: MakeshiftShield
-      node: makeshiftShield
+    # DeltaV - Make unobtainable
+    #- type: Construction
+    #  graph: MakeshiftShield
+    #  node: makeshiftShield
