@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: EmberAstra
-  changes:
-  - message: Added scar markings for Vox!
-    type: Add
-  id: 1773
-  time: '2025-10-28T11:55:09.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4513
 - author: Solaris7518
   changes:
   - message: THE HONKMOTHER HAS AWOKEN FROM HER SLUMBER.
@@ -4419,4 +4412,11 @@
   id: 2273
   time: '2026-05-04T09:44:02.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5729
+- author: Frontier
+  changes:
+  - message: Ported Rosy Mothroaches and the Cloak from Frontier Station!
+    type: Add
+  id: 2274
+  time: '2026-05-08T01:37:58.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5564
 Order: 1
