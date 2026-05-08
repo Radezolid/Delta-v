@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: CheddaCheez
-  changes:
-  - message: Added several new markings to Slime People! This includes floating bones,
-      fizzy slime, and more!
-    type: Add
-  id: 1775
-  time: '2025-10-29T23:17:28.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4569
 - author: ShepardToTheStars
   changes:
   - message: 'ADMIN: Lots of new toys - Bluespace lifelines, emergency medical pods,
@@ -4420,4 +4412,11 @@
   id: 2275
   time: '2026-05-08T02:29:47.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5449
+- author: JustTNE
+  changes:
+  - message: Fixed end-of-round lag issues by hiding characters in the EOR summary
+    type: Fix
+  id: 2276
+  time: '2026-05-08T08:35:42.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5788
 Order: 1
