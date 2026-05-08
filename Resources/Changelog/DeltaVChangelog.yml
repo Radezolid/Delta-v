@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Solaris7518
-  changes:
-  - message: THE HONKMOTHER HAS AWOKEN FROM HER SLUMBER.
-    type: Add
-  id: 1774
-  time: '2025-10-28T17:56:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4467
 - author: CheddaCheez
   changes:
   - message: Added several new markings to Slime People! This includes floating bones,
@@ -4419,4 +4412,12 @@
   id: 2274
   time: '2026-05-08T01:37:58.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5564
+- author: Cepelinas1
+  changes:
+  - message: NanoTrasen has permitted Warden and HOS veterans to dawn Wizden's sector
+      winter coats.
+    type: Add
+  id: 2275
+  time: '2026-05-08T02:29:47.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5449
 Order: 1
