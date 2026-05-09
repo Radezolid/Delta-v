@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: turtlemutt
-  changes:
-  - message: Add a new snack to the game, spicy pickle moffs!
-    type: Add
-  id: 1777
-  time: '2025-11-02T05:28:33.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4425
 - author: SirWarock
   changes:
   - message: Rollerbed sprites now don't stack when a patient is buckled to it!
@@ -4418,4 +4411,14 @@
   id: 2277
   time: '2026-05-09T22:19:48.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5738
+- author: Cepelinas1
+  changes:
+  - message: "In an effort to save money on tear gas grenade production, Security\
+      \ can now choose up to 4 items for their secbelt in the character loadout under\
+      \ the \u201CUtility\u201D section! Remember to actually choose what you want,\
+      \ unless you want to go in with just a baton and cuffs."
+    type: Add
+  id: 2278
+  time: '2026-05-09T23:04:26.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5701
 Order: 1
