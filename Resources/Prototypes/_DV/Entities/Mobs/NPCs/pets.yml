@@ -281,7 +281,7 @@
 
 - type: entity
   parent: MobBaseScurret
-  id: MobScurretBaBa
+  id: MobScurretBaba
   name: Baba
   description: Wawa?
   components:
