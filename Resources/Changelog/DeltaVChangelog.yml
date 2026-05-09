@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: 'ADMIN: Lots of new toys - Bluespace lifelines, emergency medical pods,
-      aghost pockets and belt, automatic aghost color, better `spawncharacter`, new
-      `spawnplayer` command, admin log sorting'
-    type: Add
-  id: 1776
-  time: '2025-10-30T01:52:30.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4577
 - author: turtlemutt
   changes:
   - message: Add a new snack to the game, spicy pickle moffs!
@@ -4419,4 +4410,12 @@
   id: 2276
   time: '2026-05-08T08:35:42.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5788
+- author: sowelipililimute
+  changes:
+  - message: Silicons now have an inbuilt PDA that allows for using NanoChat, viewing
+      the crew manifest, and other things.
+    type: Add
+  id: 2277
+  time: '2026-05-09T22:19:48.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5738
 Order: 1
