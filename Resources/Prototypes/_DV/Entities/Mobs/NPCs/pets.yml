@@ -291,6 +291,11 @@
       sprite: Mobs/Animals/scurret/scurret.rsi
       state: scurret
       color: "#e69d00"
+    - map: [ "enum.HumanoidVisualLayers.Handcuffs" ]
+      color: "#ffffff"
+      sprite: Objects/Misc/handcuffs.rsi
+      state: body-overlay-2
+      visible: false
   - type: GhostRole
     makeSentient: true
     allowSpeech: true
