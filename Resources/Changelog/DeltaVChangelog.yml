@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Added the Crescentmoon Clothing vendor with a number of new outfits and
-      accessories available! Go be fashionable!
-    type: Add
-  id: 1781
-  time: '2025-11-02T09:38:11.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4547
 - author: TehFlaminTaco
   changes:
   - message: Upstream Merge from mid-June through end of July has been merged!
@@ -4421,4 +4413,12 @@
   id: 2281
   time: '2026-05-10T12:57:41.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5785
+- author: sowelipililimute
+  changes:
+  - message: Added the ability to receive pages from fax machines and holopads when
+      you receive an incoming call or fax.
+    type: Add
+  id: 2282
+  time: '2026-05-10T14:10:23.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5762
 Order: 1
