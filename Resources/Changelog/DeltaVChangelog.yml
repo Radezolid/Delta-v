@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Eagle0600, meowyrm, chlymerine
-  changes:
-  - message: Multi-tiered celebration and wedding cakes. Don't wait for a wedding,
-      any excuse will do.
-    type: Add
-  id: 1780
-  time: '2025-11-02T05:49:42.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4534
 - author: AeraAuling
   changes:
   - message: Added the Crescentmoon Clothing vendor with a number of new outfits and
@@ -4422,4 +4414,11 @@
   id: 2280
   time: '2026-05-10T12:53:47.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5791
+- author: Stxcking
+  changes:
+  - message: Removed Deathsquad Items and Organic Space Suit from Chameleon Whitelist
+    type: Remove
+  id: 2281
+  time: '2026-05-10T12:57:41.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5785
 Order: 1
