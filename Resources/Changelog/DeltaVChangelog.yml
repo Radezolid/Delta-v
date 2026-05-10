@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: HTMLSystem
-  changes:
-  - message: Added arachnid and moth sprites for the night vision and thermal goggles
-    type: Add
-  id: 1779
-  time: '2025-11-02T05:45:38.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4522
 - author: Eagle0600, meowyrm, chlymerine
   changes:
   - message: Multi-tiered celebration and wedding cakes. Don't wait for a wedding,
@@ -4421,4 +4414,12 @@
   id: 2279
   time: '2026-05-10T11:35:15.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5792
+- author: Radezolid
+  changes:
+  - message: Added Baba, the scurret bartender. It has a equal chance to spawn instead
+      of Pun Pun.
+    type: Add
+  id: 2280
+  time: '2026-05-10T12:53:47.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5791
 Order: 1
