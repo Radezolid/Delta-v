@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Rollerbed sprites now don't stack when a patient is buckled to it!
-    type: Add
-  id: 1778
-  time: '2025-11-02T05:44:53.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4521
 - author: HTMLSystem
   changes:
   - message: Added arachnid and moth sprites for the night vision and thermal goggles
@@ -4421,4 +4414,11 @@
   id: 2278
   time: '2026-05-09T23:04:26.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5701
+- author: Stxcking
+  changes:
+  - message: Added Water Wall Dispenser
+    type: Add
+  id: 2279
+  time: '2026-05-10T11:35:15.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5792
 Order: 1
