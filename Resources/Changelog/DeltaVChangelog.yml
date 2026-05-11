@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: ShepardToTheStars
   changes:
-  - message: Fixed emotes not emoting.
-    type: Fix
-  id: 1784
-  time: '2025-11-07T00:03:36.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4611
-- author: ShepardToTheStars
-  changes:
   - message: Fixed some icons missing from the emote wheel and item descriptions.
     type: Fix
   id: 1785
@@ -4336,4 +4329,12 @@
   id: 2284
   time: '2026-05-10T15:05:08.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5786
+- author: BarryNorfolk
+  changes:
+  - message: Non-deployable blocking based items (shields) now block blockable damage
+      when wielded for the purposes of blocking. (Normal shields reduce damage again)
+    type: Fix
+  id: 2285
+  time: '2026-05-11T03:21:07.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5697
 Order: 1
