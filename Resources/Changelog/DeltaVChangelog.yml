@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Fixed Magazines Visuals not properly reflecting their ammo count!
-    type: Fix
-  id: 1788
-  time: '2025-11-09T19:30:45.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4626
 - author: Niomi0
   changes:
   - message: Censer is now spillable to prevent cult soft-lock
@@ -4339,4 +4332,12 @@
   id: 2288
   time: '2026-05-12T15:04:35.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5789
+- author: Halo3moth
+  changes:
+  - message: Xenoborg laser cannon nerfed from 2 fire rate to 1 (84 dps to 42) to
+      be in line with the sec laser cannon changes
+    type: Tweak
+  id: 2289
+  time: '2026-05-12T16:36:30.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5661
 Order: 1
