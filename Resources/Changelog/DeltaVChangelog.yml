@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: ShepardToTheStars
   changes:
-  - message: Fixed some icons missing from the emote wheel and item descriptions.
-    type: Fix
-  id: 1785
-  time: '2025-11-07T14:50:12.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4614
-- author: ShepardToTheStars
-  changes:
   - message: Kitsune no longer need to confirm that they would like to revert back
       to human form.
     type: Fix
@@ -4337,4 +4330,12 @@
   id: 2285
   time: '2026-05-11T03:21:07.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5697
+- author: rebe83
+  changes:
+  - message: Cybersun stealth suits are slightly slower, and no longer have perfect
+      cloaking after a Spider Clan attack on production facilities.
+    type: Tweak
+  id: 2286
+  time: '2026-05-12T02:51:16.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5739
 Order: 1
