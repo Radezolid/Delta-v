@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: ShepardToTheStars
   changes:
-  - message: Kitsune no longer need to confirm that they would like to revert back
-      to human form.
-    type: Fix
-  id: 1786
-  time: '2025-11-07T15:48:32.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4612
-- author: ShepardToTheStars
-  changes:
   - message: More missing icon fixes!
     type: Fix
   id: 1787
@@ -4338,4 +4330,13 @@
   id: 2286
   time: '2026-05-12T02:51:16.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5739
+- author: SirWarock
+  changes:
+  - message: Melee Resistance values of armor can now be fine tuned!
+    type: Tweak
+  - message: Reduced the web vest's melee stamina resistance from 40 -> 10!
+    type: Tweak
+  id: 2287
+  time: '2026-05-12T02:59:54.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5627
 Order: 1
