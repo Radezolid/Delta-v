@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: More missing icon fixes!
-    type: Fix
-  id: 1787
-  time: '2025-11-09T16:29:26.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4623
 - author: SirWarock
   changes:
   - message: Fixed Magazines Visuals not properly reflecting their ammo count!
@@ -4339,4 +4332,11 @@
   id: 2287
   time: '2026-05-12T02:59:54.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5627
+- author: FieldCommand
+  changes:
+  - message: Can purchase the cargo shuttle for 30000 spesos.
+    type: Add
+  id: 2288
+  time: '2026-05-12T15:04:35.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5789
 Order: 1
