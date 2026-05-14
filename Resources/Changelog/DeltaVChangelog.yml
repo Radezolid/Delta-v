@@ -1,25 +1,4 @@
 ﻿Entries:
-- author: Niomi0
-  changes:
-  - message: Censer is now spillable to prevent cult soft-lock
-    type: Fix
-  id: 1789
-  time: '2025-11-11T01:23:01.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4633
-- author: pootslap
-  changes:
-  - message: Rat Kings now spawn less frequently, as often as skia and skeletons.
-    type: Tweak
-  id: 1790
-  time: '2025-11-11T21:36:25.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4630
-- author: snowywinters
-  changes:
-  - message: Gave ce round start insuls
-    type: Add
-  id: 1791
-  time: '2025-11-11T21:42:13.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4616
 - author: Stop-Signs
   changes:
   - message: Winners from the art contest have had their works added to the lobby
@@ -4340,4 +4319,35 @@
   id: 2289
   time: '2026-05-12T16:36:30.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5661
+- author: AirlineFood001
+  changes:
+  - message: Salvage magnet now requires salvage access to use, or an EMAG.
+    type: Tweak
+  id: 2290
+  time: '2026-05-14T01:42:13.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5795
+- author: stormyatt
+  changes:
+  - message: Added Hitman, a new side antagonist
+    type: Add
+  id: 2291
+  time: '2026-05-14T01:46:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5506
+- author: Coryler
+  changes:
+  - message: Nubody
+    type: Add
+  - message: Nubody Visual Refactor
+    type: Add
+  - message: Nubody related fixes
+    type: Add
+  - message: Vox can eat trash
+    type: Add
+  - message: IPCs
+    type: Remove
+  - message: _ShitMed
+    type: Remove
+  id: 2292
+  time: '2026-05-12T19:55:30.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5670
 Order: 1
