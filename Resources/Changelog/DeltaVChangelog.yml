@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: Fixed emotes again by allowing players to use other species-specific
-      emotes.
-    type: Fix
-  id: 1793
-  time: '2025-11-12T15:06:12.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4621
 - author: snowywinters
   changes:
   - message: Changed uranium and plasma windows health
@@ -4350,4 +4342,15 @@
   id: 2293
   time: '2026-05-14T17:02:43.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5753
+- author: rebe83, einknusprigestoast
+  changes:
+  - message: Syndicate agents may now purchase Nocturine and Mute-toxin laced Tranquilizer
+      .25 caseless ammo for covert operations and kidnappings.
+    type: Add
+  - message: Syndicate agents may now purchase toxic .25 caseless ammo, for use in
+      killing heavily armored targets.
+    type: Add
+  id: 2294
+  time: '2026-05-14T17:08:15.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5752
 Order: 1
