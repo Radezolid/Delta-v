@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: SirWarock
   changes:
-  - message: 'Cultists: Transmutating Objects will no longer use already transmutated
-      objects!'
-    type: Fix
-  id: 1795
-  time: '2025-11-13T13:09:07.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4646
-- author: SirWarock
-  changes:
   - message: Removed the Damage caused by Cosmic Siphoning.
     type: Tweak
   id: 1796
@@ -4353,4 +4345,13 @@
   id: 2295
   time: '2026-05-15T16:55:43.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5803
+- author: Stxcking
+  changes:
+  - message: Added 11 New Service Borg Modules! Read more in the
+    type: Add
+  - message: Service Borg now start with the new Chef, Botany, and Bartender modules.
+    type: Tweak
+  id: 2296
+  time: '2026-05-15T16:58:34.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5662
 Order: 1
