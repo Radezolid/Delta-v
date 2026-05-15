@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Removed the Damage caused by Cosmic Siphoning.
-    type: Tweak
-  id: 1796
-  time: '2025-11-13T14:35:42.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4627
 - author: MolpeTheSeiren
   changes:
   - message: Moved secrecy law to above the non-emagged laws
@@ -4354,4 +4347,15 @@
   id: 2296
   time: '2026-05-15T16:58:34.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5662
+- author: Starcup, Stxcking
+  changes:
+  - message: Your AAC Tablet now syncs to your radio and can send messages directly
+      over it!
+    type: Add
+  - message: AAC Tablet transformed names are now considered names and can be highlighted
+      in chat
+    type: Tweak
+  id: 2297
+  time: '2026-05-15T17:17:50.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5569
 Order: 1
