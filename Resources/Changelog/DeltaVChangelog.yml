@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: snowywinters
-  changes:
-  - message: Changed uranium and plasma windows health
-    type: Tweak
-  id: 1794
-  time: '2025-11-12T15:12:23.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4617
 - author: SirWarock
   changes:
   - message: 'Cultists: Transmutating Objects will no longer use already transmutated
@@ -4353,4 +4346,11 @@
   id: 2294
   time: '2026-05-14T17:08:15.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5752
+- author: rebe83
+  changes:
+  - message: Rat kings are no longer able to talk, and just squeak like normal mice.
+    type: Tweak
+  id: 2295
+  time: '2026-05-15T16:55:43.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5803
 Order: 1
