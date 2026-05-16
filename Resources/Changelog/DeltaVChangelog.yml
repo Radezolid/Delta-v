@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: A recent Lawsuit forced NT to provide a carepackage to NT stations if
-      their station's medical can't subdue a viral outbreak on their own.
-    type: Add
-  id: 1799
-  time: '2025-11-14T22:49:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4593
 - author: AeraAuling
   changes:
   - message: Ifrit have returned to the delta sector
@@ -4365,4 +4357,11 @@
   id: 2299
   time: '2026-05-16T15:08:50.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5799
+- author: rebe83
+  changes:
+  - message: Diona nymphs are now ghost roles. Chirp!
+    type: Tweak
+  id: 2300
+  time: '2026-05-16T15:21:17.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5802
 Order: 1
