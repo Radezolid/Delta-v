@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: DisposableCrewmember42
-  changes:
-  - message: The pAI Software Catalog can be opened again
-    type: Fix
-  id: 1798
-  time: '2025-11-14T21:20:06.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4651
 - author: SirWarock
   changes:
   - message: A recent Lawsuit forced NT to provide a carepackage to NT stations if
@@ -4364,4 +4357,12 @@
   id: 2298
   time: '2026-05-15T21:32:40.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5503
+- author: sowelipililimute
+  changes:
+  - message: You can now build pagers that send notifications to linked PDAs when
+      pressed.
+    type: Add
+  id: 2299
+  time: '2026-05-16T15:08:50.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5799
 Order: 1
