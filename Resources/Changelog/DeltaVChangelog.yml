@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Ifrit have returned to the delta sector
-    type: Add
-  id: 1800
-  time: '2025-11-14T23:09:55.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4570
 - author: DisposableCrewmember42
   changes:
   - message: Shock collars are now secured. Those without access will be shocked,
@@ -4364,4 +4357,12 @@
   id: 2300
   time: '2026-05-16T15:21:17.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5802
+- author: Radezolid
+  changes:
+  - message: Now syndicate refugees spawn with a syndicate headset again, but with
+      the common channel only.
+    type: Tweak
+  id: 2301
+  time: '2026-05-17T05:45:23.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5698
 Order: 1
