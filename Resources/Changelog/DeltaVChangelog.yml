@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: DisposableCrewmember42
-  changes:
-  - message: Shock collars are now secured. Those without access will be shocked,
-      so smuggle insuls into perma!
-    type: Tweak
-  id: 1801
-  time: '2025-11-14T23:16:08.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4654
 - author: SirWarock
   changes:
   - message: Added Jaegermister and a few cocktails made from it!
@@ -4365,4 +4357,12 @@
   id: 2301
   time: '2026-05-17T05:45:23.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5698
+- author: Stxcking
+  changes:
+  - message: Added a new plant mutation between Ambrosia Vulgaris and Ambrosia Deus
+      called "Ambrosia Nobilis" which contains Tricordrazine and Negacordrazine!
+    type: Add
+  id: 2302
+  time: '2026-05-18T00:09:51.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5575
 Order: 1
