@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Defibrillators no longer sever limbs when used to revive patients!
-    type: Fix
-  id: 1806
-  time: '2025-11-15T18:44:31.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4583
 - author: Aera Aulin, RoosterWhiddon
   changes:
   - message: New hardsuit designs for the mystagogue have been shipped out. These
@@ -4361,4 +4354,11 @@
   id: 2306
   time: '2026-05-18T03:38:49.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5721
+- author: AeraAulin, Ahzpy
+  changes:
+  - message: Added the syndicate dual swords
+    type: Add
+  id: 2307
+  time: '2026-05-18T03:39:52.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5725
 Order: 1
