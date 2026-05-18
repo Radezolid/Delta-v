@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Added Jaegermister and a few cocktails made from it!
-    type: Add
-  id: 1802
-  time: '2025-11-14T23:18:53.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4653
 - author: BarryNorfolk
   changes:
   - message: Killing the grappled target of a grappler no longer causes them to be
@@ -4365,4 +4358,12 @@
   id: 2302
   time: '2026-05-18T00:09:51.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5575
+- author: Minerva
+  changes:
+  - message: Tape recorders now change their voice when hidden in plushies, toilets,
+      or plants.
+    type: Tweak
+  id: 2303
+  time: '2026-05-18T01:27:45.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5629
 Order: 1
