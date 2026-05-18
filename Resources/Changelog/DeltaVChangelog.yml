@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Cepelinas1
-  changes:
-  - message: A new clause in Medical Regulations SOP was added about parasitic alien
-      organisms.
-    type: Add
-  id: 1810
-  time: '2025-11-17T15:48:12.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4537
 - author: SirWarock
   changes:
   - message: NT enrolled the employees in a basic first aid training - You can do
@@ -4360,4 +4352,15 @@
   id: 2310
   time: '2026-05-18T05:11:45.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5806
+- author: keekee38
+  changes:
+  - message: the IK-30 has had its internals modified, allowing for a faster rate
+      of fire
+    type: Tweak
+  - message: NT's stock of MK32 Universals was refitted with new parts, allowing for
+      a faster firerate, but as a result, are more expensive
+    type: Tweak
+  id: 2311
+  time: '2026-05-18T05:12:59.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5592
 Order: 1
