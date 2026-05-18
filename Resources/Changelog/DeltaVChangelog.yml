@@ -1,16 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Interdyne, a rival company, scores a research-breakthrough, causing dead
-      cells to regenerate burnt tissue quicker - But is that a good thing..? (Zombies
-      heal Heat & Shock Damage quicker, but they still take more damage of it.)
-    type: Tweak
-  - message: Upon zombification, zombies don't discard their gloves to show off their
-      green nail polish anymore.
-    type: Tweak
-  id: 1804
-  time: '2025-11-14T23:45:13.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4585
 - author: ShepardToTheStars
   changes:
   - message: Fixed chief engeering's hardsuit and engineering hardsuit sprite for
@@ -4366,4 +4354,11 @@
   id: 2304
   time: '2026-05-18T03:05:21.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5582
+- author: keekee38
+  changes:
+  - message: after years of research, NT finally managed to give more clothes pockets
+    type: Tweak
+  id: 2305
+  time: '2026-05-18T03:12:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5646
 Order: 1
