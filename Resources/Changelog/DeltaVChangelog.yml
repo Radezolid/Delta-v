@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: BarryNorfolk
-  changes:
-  - message: Killing the grappled target of a grappler no longer causes them to be
-      stuck forever
-    type: Fix
-  id: 1803
-  time: '2025-11-14T23:32:06.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4546
 - author: SirWarock
   changes:
   - message: Interdyne, a rival company, scores a research-breakthrough, causing dead
@@ -4366,4 +4358,12 @@
   id: 2303
   time: '2026-05-18T01:27:45.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5629
+- author: cargomouse
+  changes:
+  - message: Added nocaf coffee to Solar's Best Hot Drinks. Contains no caffeine or
+      theobromine.
+    type: Add
+  id: 2304
+  time: '2026-05-18T03:05:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5582
 Order: 1
