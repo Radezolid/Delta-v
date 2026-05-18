@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: Aera Aulin, RoosterWhiddon
-  changes:
-  - message: New hardsuit designs for the mystagogue have been shipped out. These
-      are functionally identical to the original, just more fashionable.
-    type: Tweak
-  - message: swapped the upstream RD hardsuit for our Mystagogue hardsuit.
-    type: Fix
-  id: 1807
-  time: '2025-11-15T21:40:25.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4647
 - author: kotobdev
   changes:
   - message: Vox now possess a cortical stack, in place of a brain.
@@ -4361,4 +4351,11 @@
   id: 2307
   time: '2026-05-18T03:39:52.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5725
+- author: Stxcking
+  changes:
+  - message: Readd Round Start Tools Module to Medical, Service, and Janitor Borgs.
+    type: Tweak
+  id: 2308
+  time: '2026-05-18T03:44:36.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5657
 Order: 1
