@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: snowywinters
-  changes:
-  - message: Added an experimental RCD and air grenade to chief engineer's locker
-    type: Tweak
-  id: 1814
-  time: '2025-11-18T18:33:26.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4648
 - author: Toby222
   changes:
   - message: Impermanent anomalies now trigger the scanned effect instead of the newly
@@ -4361,4 +4354,19 @@
   id: 2314
   time: '2026-05-19T18:37:02.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5716
+- author: Cepelinas1
+  changes:
+  - message: Re-added Voice Mask to the Uplink.
+    type: Add
+  - message: Removed the Bionic Larynx Implant from the Uplink, due to an already
+      existing Voice Mask Implant from upstream.
+    type: Remove
+  - message: Increased the price of Voice Mask Implant to 2 tc. Though it could come
+      with a discount!
+    type: Tweak
+  - message: Fixed the missing Voice Mask title and description in Nanolink.
+    type: Fix
+  id: 2315
+  time: '2026-05-19T18:42:10.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5702
 Order: 1
