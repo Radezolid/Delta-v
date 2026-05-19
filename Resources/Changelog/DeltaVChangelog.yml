@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: The random animation glimmer event is now a LOT more scary.
-    type: Tweak
-  id: 1813
-  time: '2025-11-18T18:27:41.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4641
 - author: snowywinters
   changes:
   - message: Added an experimental RCD and air grenade to chief engineer's locker
@@ -4359,4 +4352,13 @@
   id: 2313
   time: '2026-05-19T08:30:28.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5122
+- author: Cepelinas1
+  changes:
+  - message: To reduce further accidents, NanoTrasen has invented an anomaly warning
+      projector for Epistemics to print in their fabricator! Management asks to place
+      down these signs to alleviate future law suits.
+    type: Add
+  id: 2314
+  time: '2026-05-19T18:37:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5716
 Order: 1
