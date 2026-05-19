@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: SirWarock
   changes:
-  - message: NT enrolled the employees in a basic first aid training - You can do
-      CPR to stabilize critial patients until the paramedics show up!
-    type: Add
-  id: 1811
-  time: '2025-11-18T09:30:51.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4649
-- author: SirWarock
-  changes:
   - message: Standardized Part Damage, so the crispy Salvager won't need twice the
       dosage of Aloxadone to finally walk again.
     type: Tweak
@@ -4363,4 +4355,11 @@
   id: 2311
   time: '2026-05-18T05:12:59.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5592
+- author: Apersos-coll
+  changes:
+  - message: Grav Gauntlet, a new selectable sidearm for the Head of Security
+    type: Add
+  id: 2312
+  time: '2026-05-19T08:21:56.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5767
 Order: 1
