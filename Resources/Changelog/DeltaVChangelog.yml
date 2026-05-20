@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: pootslap
-  changes:
-  - message: Walking through puddles no longer makes the puddle smaller. Call your
-      local janitor!
-    type: Tweak
-  id: 1817
-  time: '2025-11-18T18:57:11.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4674
 - author: EmberAstra
   changes:
   - message: Added vox and harpy sprites for Rhino hardsuits
@@ -4368,4 +4360,11 @@
   id: 2317
   time: '2026-05-20T01:04:08.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5827
+- author: kotobdev
+  changes:
+  - message: Avali now have feather mechanics! Read more about it in the guidebook.
+    type: Add
+  id: 2318
+  time: '2026-05-20T21:07:39.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5609
 Order: 1
