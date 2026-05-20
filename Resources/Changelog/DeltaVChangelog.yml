@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Removed the Beam Devastator from random spawn tables.
-    type: Remove
-  id: 1816
-  time: '2025-11-18T18:51:57.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4636
 - author: pootslap
   changes:
   - message: Walking through puddles no longer makes the puddle smaller. Call your
@@ -4368,4 +4361,11 @@
   id: 2316
   time: '2026-05-19T22:53:02.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5840
+- author: rebe83
+  changes:
+  - message: Diona may now communicate using Rootspeak with :r.
+    type: Add
+  id: 2317
+  time: '2026-05-20T01:04:08.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5827
 Order: 1
