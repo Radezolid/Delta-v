@@ -15,7 +15,7 @@
     maxAngle: -43
   - type: Wieldable
   - type: Gun
-    fireRate: 0.5
+    fireRate: 1.5 # DeltaV - revert back to prebase feel
     selectedMode: SemiAuto
     angleDecay: 45
     minAngle: 44
