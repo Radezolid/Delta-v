@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: EmberAstra
-  changes:
-  - message: Added vox and harpy sprites for Rhino hardsuits
-    type: Add
-  - message: Added harpy sprites for Goliath hardsuits
-    type: Add
-  id: 1818
-  time: '2025-11-18T19:00:49.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4609
 - author: AeraAuling
   changes:
   - message: Psionic mantis time requirement has been changed. It now requires 5 hours
@@ -4367,4 +4358,11 @@
   id: 2318
   time: '2026-05-20T21:07:39.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5609
+- author: Eternally-Confused
+  changes:
+  - message: Code Orange now has an entry in Alert Procedure.
+    type: Add
+  id: 2319
+  time: '2026-05-21T03:44:41.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5832
 Order: 1
