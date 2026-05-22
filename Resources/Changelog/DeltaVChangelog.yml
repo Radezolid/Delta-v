@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: Colossi no longer take stamina damage from melee weapons.
-    type: Fix
-  id: 1821
-  time: '2025-11-19T10:07:22.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4688
 - author: Apachit0
   changes:
   - message: Ported fishing from Goob
@@ -4362,4 +4355,11 @@
   id: 2321
   time: '2026-05-22T00:27:04.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5844
+- author: Proxysseia
+  changes:
+  - message: no more vestigial IPC mentions in SoP
+    type: Remove
+  id: 2322
+  time: '2026-05-22T01:30:25.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5860
 Order: 1
