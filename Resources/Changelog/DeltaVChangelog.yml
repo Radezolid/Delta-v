@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: Niomi0
-  changes:
-  - message: Some anomalites are no longer immune to physical damage. Gravity anomalites
-      are no longer more robust than nuclear operatives. Anomalites have less hp.
-    type: Tweak
-  - message: Anomalites can only spawn once per anomaly core.
-    type: Tweak
-  id: 1823
-  time: '2025-11-19T11:05:22.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4595
 - author: SlamBamActionman, Averi
   changes:
   - message: Station animals no longer attack wizards and initial infected
@@ -4363,4 +4353,18 @@
   id: 2323
   time: '2026-05-22T15:59:31.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5855
+- author: Frontier, Stxcking
+  changes:
+  - message: 'Coming from Frontier: Added the Holoflare Gun! Locked behind T1 research
+      and can be made in the Logistic or Engineering Techfab or brought salvage vendor
+      for 450 points.'
+    type: Add
+  - message: Salvage cyborg will come with a holoflare gun in their traversal module
+      and it's available in the advanced tools module.
+    type: Tweak
+  - message: Skias are able to delete flare pellets with their scream!
+    type: Tweak
+  id: 2324
+  time: '2026-05-22T16:18:47.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5837
 Order: 1
