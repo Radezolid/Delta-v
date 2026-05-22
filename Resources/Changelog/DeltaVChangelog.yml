@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Apachit0
-  changes:
-  - message: Ported fishing from Goob
-    type: Add
-  id: 1822
-  time: '2025-11-18T21:06:59.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4615
 - author: Niomi0
   changes:
   - message: Some anomalites are no longer immune to physical damage. Gravity anomalites
@@ -4362,4 +4355,12 @@
   id: 2322
   time: '2026-05-22T01:30:25.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5860
+- author: Stxcking
+  changes:
+  - message: Advanced Botany Module and DJ Module now cost as much as any other Advanced
+      Modules.
+    type: Fix
+  id: 2323
+  time: '2026-05-22T15:59:31.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5855
 Order: 1
