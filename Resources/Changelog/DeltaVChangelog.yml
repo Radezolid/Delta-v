@@ -1,15 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Made the Holographic Hoverbed researchable and craftable in the Medical
-      Techfab!
-    type: Add
-  - message: Animated the Holographic Hoverbed, made it a lot easier to drag around
-      and gave it a small light when unfolded!
-    type: Tweak
-  id: 1825
-  time: '2025-11-19T20:27:29.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4683
 - author: Solaris7518
   changes:
   - message: Lava is finally able to be fished in, now get fishing!
@@ -4368,4 +4357,11 @@
   id: 2325
   time: '2026-05-23T01:33:44.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5822
+- author: ShepardToTheStars
+  changes:
+  - message: Fixed brain and other organs not being dropped when player is gibbed.
+    type: Fix
+  id: 2326
+  time: '2026-05-23T20:40:15.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5874
 Order: 1
