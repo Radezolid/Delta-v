@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: Coryler
   changes:
-  - message: Nav/Radar Console Distance calculation more correct
-    type: Tweak
-  id: 1833
-  time: '2025-11-22T02:17:33.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4709
-- author: Coryler
-  changes:
   - message: Cyborgs can now laugh silently again
     type: Tweak
   id: 1834
@@ -4356,4 +4349,12 @@
   id: 2333
   time: '2026-05-24T16:18:21.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5849
+- author: SirWarock
+  changes:
+  - message: The Warden's Hardsuit is so heavy that it doesn't get affected by Space
+      Wind or Slippery Surfaces!
+    type: Tweak
+  id: 2334
+  time: '2026-05-24T16:31:13.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5700
 Order: 1
