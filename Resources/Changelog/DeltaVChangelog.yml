@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: Portable rechargers can now be worn in your suit storage and belt slots.
-    type: Tweak
-  id: 1827
-  time: '2025-11-20T01:24:28.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4681
 - author: AeraAulin, ShepardToTheStars
   changes:
   - message: With new breakthroughs in psionics research, NT scientists have discovered
@@ -4365,4 +4358,11 @@
   id: 2327
   time: '2026-05-24T04:55:54.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5877
+- author: Stxcking
+  changes:
+  - message: Remove 0 TC cost items from Super Surplus and Surplus Crates.
+    type: Tweak
+  id: 2328
+  time: '2026-05-24T15:48:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5853
 Order: 1
