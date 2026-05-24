@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Solaris7518
-  changes:
-  - message: Lava is finally able to be fished in, now get fishing!
-    type: Fix
-  id: 1826
-  time: '2025-11-19T23:10:17.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4695
 - author: kotobdev
   changes:
   - message: Portable rechargers can now be worn in your suit storage and belt slots.
@@ -4364,4 +4357,12 @@
   id: 2326
   time: '2026-05-23T20:40:15.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5874
+- author: Eternally-Confused
+  changes:
+  - message: The nukie medicine bundle now contains a jug of salbutamol, instead of
+      dexalin plus.
+    type: Fix
+  id: 2327
+  time: '2026-05-24T04:55:54.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5877
 Order: 1
