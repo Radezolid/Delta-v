@@ -1,16 +1,4 @@
 ﻿Entries:
-- author: Biddy Gelson
-  changes:
-  - message: sec and court doors are law+sec access. armory wall reinforced. more
-      station maps, med recep has door button.
-    type: Tweak
-  - message: added LO locker with hardsuit.
-    type: Add
-  - message: fixed directional signs
-    type: Fix
-  id: 1831
-  time: '2025-11-21T01:49:47.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4665
 - author: Cepelinas1
   changes:
   - message: Sophont and Synthetic definitions were removed in the SOP and other documents,
@@ -4364,4 +4352,13 @@
   id: 2331
   time: '2026-05-24T16:06:55.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5623
+- author: AeraAuling
+  changes:
+  - message: Better materials have been acquired for the production of the syndicate
+      dual swords, allowing their cuts to bite a bit deeper and even for bullets to
+      be reflected. Try them out if you get the chance.
+    type: Tweak
+  id: 2332
+  time: '2026-05-24T16:14:24.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5859
 Order: 1
