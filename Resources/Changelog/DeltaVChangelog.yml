@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: TehFlaminTaco, SolsticeOfTheWinter, Rosef
-  changes:
-  - message: Added the Devil. Make deals at your own risk
-    type: Add
-  id: 1830
-  time: '2025-11-20T10:11:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4639
 - author: Biddy Gelson
   changes:
   - message: sec and court doors are law+sec access. armory wall reinforced. more
@@ -4364,4 +4357,11 @@
   id: 2330
   time: '2026-05-24T16:02:11.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5800
+- author: Stxcking
+  changes:
+  - message: Moved Onion Rings and Taco Shells Recipes to the Deep Fryer!
+    type: Tweak
+  id: 2331
+  time: '2026-05-24T16:06:55.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5623
 Order: 1
