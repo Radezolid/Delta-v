@@ -1,17 +1,4 @@
 ﻿Entries:
-- author: Cepelinas1
-  changes:
-  - message: Sophont and Synthetic definitions were removed in the SOP and other documents,
-      in exchange for the newer one.
-    type: Remove
-  - message: 'Added a new entry to SOP: Entity Definitions. They define what are entities,
-      synthetics, pets and Employees. Go give ''em a read!'
-    type: Add
-  - message: Changed sophont definitions in Space Law with the newer entity definitions.
-    type: Add
-  id: 1832
-  time: '2025-11-21T13:42:00.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4661
 - author: Coryler
   changes:
   - message: Nav/Radar Console Distance calculation more correct
@@ -4361,4 +4348,12 @@
   id: 2332
   time: '2026-05-24T16:14:24.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5859
+- author: Cepelinas1
+  changes:
+  - message: You can now purchase revolvers from Logistics. Gamble for your favorite
+      revolver if you feel lucky!
+    type: Add
+  id: 2333
+  time: '2026-05-24T16:18:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5849
 Order: 1
