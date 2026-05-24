@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Coryler
-  changes:
-  - message: Fixed Autodoc Menu
-    type: Fix
-  id: 1829
-  time: '2025-11-20T04:07:18.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4698
 - author: TehFlaminTaco, SolsticeOfTheWinter, Rosef
   changes:
   - message: Added the Devil. Make deals at your own risk
@@ -4364,4 +4357,11 @@
   id: 2329
   time: '2026-05-24T15:58:34.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5864
+- author: Eternally-Confused
+  changes:
+  - message: The traitor guidebook has been updated to include Delta-V specific objectives.
+    type: Tweak
+  id: 2330
+  time: '2026-05-24T16:02:11.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5800
 Order: 1
