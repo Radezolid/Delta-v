@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: AeraAulin, ShepardToTheStars
-  changes:
-  - message: With new breakthroughs in psionics research, NT scientists have discovered
-      a way to implement powers into specially made bluespace prosthetics.
-    type: Add
-  id: 1828
-  time: '2025-11-20T01:58:08.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4689
 - author: Coryler
   changes:
   - message: Fixed Autodoc Menu
@@ -4365,4 +4357,11 @@
   id: 2328
   time: '2026-05-24T15:48:02.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5853
+- author: Velcroboy
+  changes:
+  - message: Players can now find and construct colorful comfy chairs!
+    type: Add
+  id: 2329
+  time: '2026-05-24T15:58:34.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5864
 Order: 1
