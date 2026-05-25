@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: MantasDab360
-  changes:
-  - message: MMI finally works in IPC chassis! Gibbed players rejoice!
-    type: Fix
-  id: 1837
-  time: '2025-11-22T03:59:04.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4699
 - author: kotobdev
   changes:
   - message: The Super Synthesizer now only requires 50 musician hours to unlock as
@@ -4361,4 +4354,11 @@
   id: 2337
   time: '2026-05-25T14:57:37.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5598
+- author: rebe83
+  changes:
+  - message: Prisoners now spawn inside permanent brig again, instead of arrivals.
+    type: Fix
+  id: 2338
+  time: '2026-05-25T14:59:40.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5885
 Order: 1
