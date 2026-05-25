@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Coryler
-  changes:
-  - message: Cyborgs can now laugh silently again
-    type: Tweak
-  id: 1834
-  time: '2025-11-22T03:18:52.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4703
 - author: MolpeTheSeiren
   changes:
   - message: Gave Ifrit more of epistemics department access
@@ -4357,4 +4350,13 @@
   id: 2334
   time: '2026-05-24T16:31:13.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5700
+- author: SirRequiem
+  changes:
+  - message: 'Terra: Replaced superweapon spawner for the advanced laser safe'
+    type: Tweak
+  - message: 'Terra: Revamped Atmos room. Now regular Engi have access to the TEG!'
+    type: Tweak
+  id: 2335
+  time: '2026-05-25T09:13:08.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5772
 Order: 1
