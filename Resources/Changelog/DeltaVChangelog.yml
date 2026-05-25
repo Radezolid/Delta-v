@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: The Super Synthesizer now only requires 50 musician hours to unlock as
-      a trinket.
-    type: Tweak
-  id: 1838
-  time: '2025-11-22T05:35:25.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4710
 - author: Coryler
   changes:
   - message: Fixed Ratking Double Spawn
@@ -4361,4 +4353,11 @@
   id: 2338
   time: '2026-05-25T14:59:40.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5885
+- author: Khaomi
+  changes:
+  - message: Lone Digger by Caravan Palace from Jukebox for copyright reason
+    type: Remove
+  id: 2339
+  time: '2026-05-25T19:44:56.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5887
 Order: 1
