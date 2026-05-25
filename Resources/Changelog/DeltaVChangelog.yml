@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Toby222
-  changes:
-  - message: Rat servants are now edible. Yum...
-    type: Fix
-  id: 1836
-  time: '2025-11-22T03:50:30.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4687
 - author: MantasDab360
   changes:
   - message: MMI finally works in IPC chassis! Gibbed players rejoice!
@@ -4359,4 +4352,13 @@
   id: 2336
   time: '2026-05-25T13:43:46.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5878
+- author: kotobdev
+  changes:
+  - message: You can now equip up to 25 traits at once!
+    type: Tweak
+  - message: Traits now cost 0 points by default.
+    type: Tweak
+  id: 2337
+  time: '2026-05-25T14:57:37.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5598
 Order: 1
