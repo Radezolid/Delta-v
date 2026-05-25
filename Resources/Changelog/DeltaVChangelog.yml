@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Coryler
-  changes:
-  - message: Fixed Ratking Double Spawn
-    type: Fix
-  id: 1839
-  time: '2025-11-22T18:14:19.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4702
 - author: cmorley191
   changes:
   - message: Oracle can now accept holofan projector and other tools through right-click
@@ -4360,4 +4353,12 @@
   id: 2339
   time: '2026-05-25T19:44:56.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5887
+- author: crocodilecarousel, hivehum, Stxcking
+  changes:
+  - message: 'Ported from ImpStation: 8 Wallpapers +5 Banners + 3 Glow in the Dark
+      Stars!'
+    type: Add
+  id: 2340
+  time: '2026-05-25T23:02:52.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5722
 Order: 1
