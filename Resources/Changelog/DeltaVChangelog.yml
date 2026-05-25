@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: MolpeTheSeiren
-  changes:
-  - message: Gave Ifrit more of epistemics department access
-    type: Tweak
-  id: 1835
-  time: '2025-11-22T03:47:45.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4677
 - author: Toby222
   changes:
   - message: Rat servants are now edible. Yum...
@@ -4359,4 +4352,11 @@
   id: 2335
   time: '2026-05-25T09:13:08.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5772
+- author: kotobdev
+  changes:
+  - message: Psionic Eruption has had its destructive potential substantially reduced.
+    type: Tweak
+  id: 2336
+  time: '2026-05-25T13:43:46.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5878
 Order: 1
