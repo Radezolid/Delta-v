@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: cmorley191
-  changes:
-  - message: Oracle can now accept holofan projector and other tools through right-click
-      menu action
-    type: Fix
-  id: 1840
-  time: '2025-11-22T18:32:38.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4704
 - author: MantasDab360
   changes:
   - message: No more MMInception. The Positronic Brain and MMI can no longer be inserted
@@ -4361,4 +4353,15 @@
   id: 2340
   time: '2026-05-25T23:02:52.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5722
+- author: AeraAuling
+  changes:
+  - message: Added the SV-213, an officer-grade variant of the Svalinn Laser Pistol,
+      now available in secoff and detective loadouts.
+    type: Add
+  - message: Adds the regular Svalinn Laser Pistol to the pilot's locker. We couldn't
+      afford actual windshield wipers so this will have to do.
+    type: Add
+  id: 2341
+  time: '2026-05-26T23:30:36.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5889
 Order: 1
