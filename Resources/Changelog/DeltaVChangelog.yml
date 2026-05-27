@@ -1,52 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: Upstream Changes from August have been merged!
-    type: Add
-  - message: A new cake, berry delight, that is made with a cake base, berries and
-      milk.
-    type: Add
-  - message: Craftable cardboard structures and equipment now available!
-    type: Add
-  - message: Captain and Head of Personnel starts with administration glasses and
-      HUD respectively.
-    type: Add
-  - message: The station AI will receive chat notifications when its sentry turrets
-      start firing upon hostile targets.
-    type: Add
-  - message: Shitmed's laying down system has been replaced by Wizden's crawling.
-    type: Tweak
-  - message: Various syndicate items can now be "locked" with your voice to hide their
-      true identity. The items are, all chameleon clothing, voice masks, no slips,
-      agent IDs, cane swords, and e daggers.
-    type: Add
-  - message: Meat spikes got an overhaul.
-    type: Tweak
-  - message: Two new (negative) traits! Hemophilia and impaired mobility!
-    type: Add
-  - message: Moths are less flammable now (but more flammable than others).
-    type: Tweak
-  - message: Added new Derelict Cyborg ghost roles, including the Derelict Engineer,
-      Janitor, Salvage, Medical, and Assault Cyborg!
-    type: Add
-  - message: Lathes now batch items into jobs, which can be moved around in priority
-      or deleted.
-    type: Add
-  - message: Many station structures and fixtures, such as walls and airlocks, can
-      now be re-anchored to the floor if they happen to be dislodged by an explosion
-      or other shenanigans.
-    type: Tweak
-  - message: Added atmospherics delta-pressure structure damage. Objects like windows,
-      thindows, windoors, etc. will have damage done to them depending on the pressure
-      difference across the sides of the object.
-    type: Add
-  - message: Normality crystals now require Holy Water instead of normal water!
-    type: Tweak
-  - message: and so much more! Like A LOT more.
-    type: Add
-  id: 1842
-  time: '2025-11-23T21:49:56.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4625
 - author: SirWarock
   changes:
   - message: A new series of Magazine has been released - The elusive CentComm Chads!
@@ -4364,4 +4316,12 @@
   id: 2342
   time: '2026-05-27T13:45:37.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5897
+- author: rebe83
+  changes:
+  - message: Corps hardsuit lockers now have jetpacks and a bottle of revivopine.
+      They also no longer have a second combat medkit or sterile mask boxes.
+    type: Tweak
+  id: 2343
+  time: '2026-05-27T16:21:17.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5842
 Order: 1
