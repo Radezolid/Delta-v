@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: MantasDab360
-  changes:
-  - message: No more MMInception. The Positronic Brain and MMI can no longer be inserted
-      into the MMI.
-    type: Fix
-  id: 1841
-  time: '2025-11-23T22:21:13.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4723
 - author: ShepardToTheStars
   changes:
   - message: Upstream Changes from August have been merged!
@@ -4364,4 +4356,12 @@
   id: 2341
   time: '2026-05-26T23:30:36.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5889
+- author: kotobdev
+  changes:
+  - message: Borers have been temporarily disabled, due to their primary method of
+      removal no longer existing now that surgery is gone.
+    type: Remove
+  id: 2342
+  time: '2026-05-27T13:45:37.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5897
 Order: 1
