@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: Fixed engineering borgs duplicating items on switching modules.
-    type: Fix
-  id: 1845
-  time: '2025-11-24T19:15:19.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4738
 - author: Coryler
   changes:
   - message: distance to fit more
@@ -4326,4 +4319,11 @@
   id: 2345
   time: '2026-05-27T19:14:02.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5845
+- author: Stxcking
+  changes:
+  - message: Remove Time Requirements on Certain Berets and HoS Robe.
+    type: Remove
+  id: 2346
+  time: '2026-05-27T23:46:59.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5603
 Order: 1
