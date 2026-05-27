@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: ShepardToTheStars
   changes:
-  - message: Fixed IPCs not being able to crawl.
-    type: Fix
-  id: 1844
-  time: '2025-11-24T15:03:15.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4737
-- author: ShepardToTheStars
-  changes:
   - message: Fixed engineering borgs duplicating items on switching modules.
     type: Fix
   id: 1845
@@ -4325,4 +4318,12 @@
   id: 2344
   time: '2026-05-27T18:20:49.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5890
+- author: Cepelinas1
+  changes:
+  - message: NanoTrasen has begrudgingly allowed crew members to carry flippo lighters,
+      including ones from different companies. Pick out your favorite lighter in loadouts!
+    type: Add
+  id: 2345
+  time: '2026-05-27T19:14:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5845
 Order: 1
