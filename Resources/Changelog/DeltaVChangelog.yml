@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: A new series of Magazine has been released - The elusive CentComm Chads!
-    type: Add
-  id: 1843
-  time: '2025-11-24T13:47:47.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4631
 - author: ShepardToTheStars
   changes:
   - message: Fixed IPCs not being able to crawl.
@@ -4324,4 +4317,12 @@
   id: 2343
   time: '2026-05-27T16:21:17.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5842
+- author: AeraAuling
+  changes:
+  - message: Ancient books are being found with extra rewards inside them. Give it
+      a try and see what you can find!
+    type: Tweak
+  id: 2344
+  time: '2026-05-27T18:20:49.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5890
 Order: 1
