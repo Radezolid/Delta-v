@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Shooting the NT-3 does not disable the bipod anymore via recoil!
-    type: Fix
-  id: 1852
-  time: '2025-11-26T13:29:54.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4764
 - author: Dorragon
   changes:
   - message: Security now has gloves in loadouts
@@ -4340,4 +4333,12 @@
   id: 2352
   time: '2026-05-28T17:37:09.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5805
+- author: SirWarock
+  changes:
+  - message: MassSleep now heals people that have been forced to sleep in exchange
+      for a higher glimmer generation!
+    type: Tweak
+  id: 2353
+  time: '2026-05-28T18:06:12.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5692
 Order: 1
