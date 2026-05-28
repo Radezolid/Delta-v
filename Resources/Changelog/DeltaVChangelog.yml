@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Toby222
-  changes:
-  - message: Fixed clothing slowdowns being applied twice
-    type: Fix
-  id: 1848
-  time: '2025-11-25T09:19:05.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4751
 - author: SirWarock
   changes:
   - message: Added the NT-3, a brand new, top of the line, science-breakthrough weapon!
@@ -4325,4 +4318,29 @@
   id: 2348
   time: '2026-05-28T15:57:28.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5899
+- author: rebe83, einknusprigestoast
+  changes:
+  - message: AP python returns!
+    type: Tweak
+  - message: Viper full auto returns! Yes, it does have a switch.
+    type: Tweak
+  - message: Syndicate Knuckledusters have 16 stun, slightly reduced damage
+    type: Tweak
+  - message: mini ecrossbow projectiles now match taser range
+    type: Tweak
+  - message: estoc burst fire now shoots two simultaneous shots
+    type: Tweak
+  - message: hyperblades are now very unlikely to be disarmed
+    type: Tweak
+  - message: epens only reflect 10%
+    type: Tweak
+  - message: throwing knives may be dipped in chemicals like spears!
+    type: Add
+  - message: toolbox turrets have a slightly increased rate of fire
+    type: Tweak
+  - message: various price adjustments
+    type: Tweak
+  id: 2349
+  time: '2026-05-28T16:04:00.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5892
 Order: 1
