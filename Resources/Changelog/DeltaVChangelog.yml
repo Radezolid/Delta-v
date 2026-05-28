@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: AeraAuling
-  changes:
-  - message: Seems some of the ancient books texts have stopped shifting, check them
-      out if you can find them.
-    type: Tweak
-  id: 1850
-  time: '2025-11-26T00:29:37.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4716
 - author: ShepardToTheStars
   changes:
   - message: Fixed borgs not being able to pick up machine parts.
@@ -4343,4 +4335,12 @@
   id: 2350
   time: '2026-05-28T16:04:38.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5908
+- author: Radezolid
+  changes:
+  - message: The PKA's firerate has been lowered to 0.5 shots per second along with
+      a inventory size increase to 3x2.
+    type: Tweak
+  id: 2351
+  time: '2026-05-28T17:07:11.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5811
 Order: 1
