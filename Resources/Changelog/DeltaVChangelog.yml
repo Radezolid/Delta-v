@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: Fixed borgs not being able to pick up machine parts.
-    type: Fix
-  - message: Fixed IPCs seeing a message that they are being unlocked from erroneously
-      appearing.
-    type: Fix
-  id: 1851
-  time: '2025-11-26T08:59:36.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4757
 - author: SirWarock
   changes:
   - message: Shooting the NT-3 does not disable the bipod anymore via recoil!
@@ -4343,4 +4333,11 @@
   id: 2351
   time: '2026-05-28T17:07:11.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5811
+- author: JustTNE
+  changes:
+  - message: Station AI can now hear the PDAs ringer for NanoChat/News
+    type: Fix
+  id: 2352
+  time: '2026-05-28T17:37:09.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5805
 Order: 1
