@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: Clippy and the other cats can now pounce!  Sadly, they don't knock things
-      off counters... yet.
-    type: Add
-  id: 1847
-  time: '2025-11-25T04:08:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4733
 - author: Toby222
   changes:
   - message: Fixed clothing slowdowns being applied twice
@@ -4326,4 +4318,11 @@
   id: 2347
   time: '2026-05-28T15:56:17.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5907
+- author: Stop-Signs
+  changes:
+  - message: Miasma healing for rat king is more powerful based on the amount of miasma.
+    type: Tweak
+  id: 2348
+  time: '2026-05-28T15:57:28.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5899
 Order: 1
