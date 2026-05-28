@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Coryler
-  changes:
-  - message: distance to fit more
-    type: Tweak
-  id: 1846
-  time: '2025-11-25T04:07:20.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4719
 - author: ShepardToTheStars
   changes:
   - message: Clippy and the other cats can now pounce!  Sadly, they don't knock things
@@ -4326,4 +4319,11 @@
   id: 2346
   time: '2026-05-27T23:46:59.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5603
+- author: AeraAuling
+  changes:
+  - message: Kitsune now have their intended damage modifier set.
+    type: Fix
+  id: 2347
+  time: '2026-05-28T15:56:17.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5907
 Order: 1
