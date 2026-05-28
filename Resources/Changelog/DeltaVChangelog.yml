@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Cepelinas1
-  changes:
-  - message: Periapsis now pings a specific discord role whenever a new round is starting.
-    type: Add
-  id: 1854
-  time: '2025-11-26T14:01:25.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4755
 - author: kotobdev
   changes:
   - message: Slipping is now scary again, and will stun you for a while. Beware of
@@ -4342,4 +4335,16 @@
   id: 2354
   time: '2026-05-28T18:56:45.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5694
+- author: kotobdev
+  changes:
+  - message: Avali feathers will now be properly colored when *not* beating said avali's
+      skull in with a baseball bat.
+    type: Fix
+  - message: Avali can now see further again.
+    type: Fix
+  - message: Avali no longer have their preening verb show up at all ranges.
+    type: Fix
+  id: 2355
+  time: '2026-05-28T19:56:37.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5881
 Order: 1
