@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: Slipping is now scary again, and will stun you for a while. Beware of
-      the clown.
-    type: Tweak
-  id: 1855
-  time: '2025-11-26T15:31:20.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4747
 - author: Exile152
   changes:
   - message: Added a new cargo mascot fit! Check it out in the LogiDrobe!
@@ -4347,4 +4339,11 @@
   id: 2355
   time: '2026-05-28T19:56:37.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5881
+- author: Apachito, Stxcking
+  changes:
+  - message: Ported Portable Chem Mixer from Goob
+    type: Add
+  id: 2356
+  time: '2026-05-29T11:08:49.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5532
 Order: 1
