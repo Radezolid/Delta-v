@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Exile152
-  changes:
-  - message: Added a new cargo mascot fit! Check it out in the LogiDrobe!
-    type: Add
-  id: 1856
-  time: '2025-11-26T16:23:20.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4708
 - author: pootslap
   changes:
   - message: Fixed certain species not starting with a survival box when joining as
@@ -4346,4 +4339,21 @@
   id: 2356
   time: '2026-05-29T11:08:49.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5532
+- author: Velcroboy
+  changes:
+  - message: 'Asterisk: Removed superweapon'
+    type: Remove
+  - message: 'Byoin: Removed superweapon'
+    type: Remove
+  - message: 'Chibi: Removed superweapon'
+    type: Remove
+  - message: 'Edge: Removed superweapon'
+    type: Remove
+  - message: 'Glacier: Removed superweapon'
+    type: Remove
+  - message: 'Tortuga: Removed superweapon'
+    type: Remove
+  id: 2357
+  time: '2026-05-29T15:55:03.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5912
 Order: 1
