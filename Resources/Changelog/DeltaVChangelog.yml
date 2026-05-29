@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: ShepardToTheStars
-  changes:
-  - message: The chaplain and command can no longer become a deal-making devil.
-    type: Tweak
-  id: 1858
-  time: '2025-11-26T21:36:39.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4776
 - author: cmorley191
   changes:
   - message: Meteors will *actually* be on collision course with the station now!
@@ -4370,4 +4363,17 @@
   id: 2358
   time: '2026-05-29T20:26:21.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5814
+- author: BarryNorfolk
+  changes:
+  - message: Laika now has tracking built in!
+    type: Add
+  - message: Security dogs purchased outside of Laika will now have names generated
+      from the list of fellow Space dogs.
+    type: Add
+  - message: Laika now has access to general security areas, this is limited to entities
+      with minds (i.e. Players).
+    type: Add
+  id: 2359
+  time: '2026-05-29T20:33:12.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5001
 Order: 1
