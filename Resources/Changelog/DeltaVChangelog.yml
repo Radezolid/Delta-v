@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: pootslap
-  changes:
-  - message: Fixed certain species not starting with a survival box when joining as
-      a mime.
-    type: Fix
-  id: 1857
-  time: '2025-11-26T16:45:35.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4768
 - author: ShepardToTheStars
   changes:
   - message: The chaplain and command can no longer become a deal-making devil.
@@ -4356,4 +4348,26 @@
   id: 2357
   time: '2026-05-29T15:55:03.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5912
+- author: rebe83
+  changes:
+  - message: Glimmer wisps are now immune to physical and shadow damage.
+    type: Tweak
+  - message: Skias and revenants are now highly resistant to brute damages. Try using
+      holy or heat damage instead!
+    type: Tweak
+  - message: Silver swords, radiant swords, and bibles are all more effective at revealing
+      revenants! Salt works in a pinch, or... your own soul passing through them.
+    type: Tweak
+  - message: Skia may now jaunt. The shadows are its domain!
+    type: Tweak
+  - message: Revenants are unable to emag borgs or lockers.
+    type: Tweak
+  - message: The veil thins, and revenants are now able to claw their targets. Call
+      the priest!
+    type: Tweak
+  - message: Other small changes.
+    type: Tweak
+  id: 2358
+  time: '2026-05-29T20:26:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5814
 Order: 1
