@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: cmorley191
   changes:
-  - message: Artifacts now activate much faster after you successfully perform their
-      triggers. More danger = more fun
-    type: Tweak
-  id: 1861
-  time: '2025-11-27T03:48:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4743
-- author: cmorley191
-  changes:
   - message: The more difficult atmos triggers on artifacts (low O2, heat, cold, low
       pressure, high pressure) will show up less frequently.
     type: Tweak
@@ -4376,4 +4368,19 @@
   id: 2361
   time: '2026-05-30T12:25:28.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5489
+- author: mirrorcult, Nemanja, Flareguy, sowelipililimute
+  changes:
+  - message: Door animations now properly play out instead of getting cancelled part-way
+      through.
+    type: Fix
+  - message: There are now interaction particles to make some of the invisible things
+      people do more visible.
+    type: Add
+  - message: Audio attenuation is now more noticeable
+    type: Tweak
+  - message: Many electrical things now produce sparks when damaged or activated
+    type: Add
+  id: 2362
+  time: '2026-05-30T13:34:27.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5798
 Order: 1
