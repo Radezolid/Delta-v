@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: cmorley191
   changes:
-  - message: The more difficult atmos triggers on artifacts (low O2, heat, cold, low
-      pressure, high pressure) will show up less frequently.
-    type: Tweak
-  id: 1862
-  time: '2025-11-27T03:49:39.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4744
-- author: cmorley191
-  changes:
   - message: Artifact "psionic disturbances" trigger fixed
     type: Fix
   id: 1863
@@ -4383,4 +4375,11 @@
   id: 2362
   time: '2026-05-30T13:34:27.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5798
+- author: rebe83
+  changes:
+  - message: Psionic Eruption can no longer be rolled.
+    type: Remove
+  id: 2363
+  time: '2026-05-30T14:44:58.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5821
 Order: 1
