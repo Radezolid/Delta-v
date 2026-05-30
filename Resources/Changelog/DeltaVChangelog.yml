@@ -1,14 +1,6 @@
 ﻿Entries:
 - author: cmorley191
   changes:
-  - message: Meteors will *actually* be on collision course with the station now!
-      Brace for impact.
-    type: Fix
-  id: 1859
-  time: '2025-11-26T22:01:23.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4379
-- author: cmorley191
-  changes:
   - message: Mindbreaker Toxin now resets your psionic reroll, so you can use the
       Oracle to roll for a power again. (helps make Code White mindbreaking for instant
       glimmer reductions less painful for the victims)
@@ -4276,7 +4268,8 @@
   url: https://github.com/DeltaV-Station/Delta-v/pull/5908
 - author: Radezolid
   changes:
-  - message: The PKA's inventory size has been increased to 3x2 and damage increased to 20 blunt from 15 blunt.
+  - message: The PKA's inventory size has been increased to 3x2 and damage increased
+      to 20 blunt from 15 blunt.
     type: Tweak
   - message: PKA's modkits have been removed from the Salvage Vendor and research.
     type: Remove
@@ -4377,4 +4370,11 @@
   id: 2359
   time: '2026-05-29T20:33:12.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5001
+- author: Stxcking
+  changes:
+  - message: Ninjas can now call in the Colossus as a threat!
+    type: Add
+  id: 2360
+  time: '2026-05-30T02:20:19.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5909
 Order: 1
