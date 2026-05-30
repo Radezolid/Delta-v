@@ -1,15 +1,6 @@
 ﻿Entries:
 - author: cmorley191
   changes:
-  - message: Mindbreaker Toxin now resets your psionic reroll, so you can use the
-      Oracle to roll for a power again. (helps make Code White mindbreaking for instant
-      glimmer reductions less painful for the victims)
-    type: Tweak
-  id: 1860
-  time: '2025-11-26T22:04:19.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4429
-- author: cmorley191
-  changes:
   - message: Artifacts now activate much faster after you successfully perform their
       triggers. More danger = more fun
     type: Tweak
@@ -4377,4 +4368,12 @@
   id: 2360
   time: '2026-05-30T02:20:19.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5909
+- author: DisposableCrewmember42
+  changes:
+  - message: Gamemodes now have cooldowns. They shouldn't be chosen twice back-to-back
+      anymore. Nukeops and Zeds are on cooldown for two shifts after rolling.
+    type: Tweak
+  id: 2361
+  time: '2026-05-30T12:25:28.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5489
 Order: 1
