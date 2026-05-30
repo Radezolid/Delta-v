@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: cmorley191
-  changes:
-  - message: Artifact "psionic disturbances" trigger fixed
-    type: Fix
-  id: 1863
-  time: '2025-11-27T03:50:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4705
 - author: Woljif
   changes:
   - message: Re-balanced the Vulcan, giving it a slower fire rate but high accuracy
@@ -4382,4 +4375,12 @@
   id: 2363
   time: '2026-05-30T14:44:58.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5821
+- author: SirWarock
+  changes:
+  - message: Added a client option to enable stunvisuals (Seeing Stars effect on stunnied
+      entities)!
+    type: Add
+  id: 2364
+  time: '2026-05-30T15:10:19.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5831
 Order: 1
