@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Velcroboy
-  changes:
-  - message: Fixed gladiators now spawn with a prisoner headset
-    type: Fix
-  id: 1866
-  time: '2025-11-27T16:34:50.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4778
 - author: MantasDab360
   changes:
   - message: Ore Box can now dump out ores!
@@ -4382,4 +4375,12 @@
   id: 2366
   time: '2026-05-30T23:56:34.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5626
+- author: SirWarock
+  changes:
+  - message: Reduced the Juggernauts Suit Stamina Resistance to 20% for both Ranged
+      & Melee!
+    type: Tweak
+  id: 2367
+  time: '2026-05-31T16:45:18.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5893
 Order: 1
