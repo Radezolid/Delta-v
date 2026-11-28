@@ -31,20 +31,20 @@
 
 - type: guideEntry
   id: SpaceLawCrimesReferences
-  name: Crimes Quick Code References
-  text: /ServerInfo/Guidebook/_DV/SpaceLaw/CrimeReferences.xml
+  name: space-law-criminal-reference-name
+  text: /ServerInfo/Guidebook/_DV/SpaceLaw/SpaceLaw/CrimeReferences.xml
 
 # Definitions
 - type: guideEntry
   id: SLawDefinitions
-  name: Definitions
+  name: space-law-definitions-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/Definitions.xml
 
 # Controlled ISA Main Directory and Subdirectories
 
 - type: guideEntry
   id: ControlledISA
-  name: Controlled Items, Substances & Areas
+  name: space-law-controlled-items-substances-areas-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/ControlledISA.xml
   priority: 1
   children:
@@ -56,7 +56,7 @@
 
 - type: guideEntry
   id: DepartmentalDisp
-  name: Departmental Dispensations
+  name: space-law-departamental-dispensations-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/DepartmentalDisp/DepartmentalDisp.xml
   children:
   - LogisticsDisp
@@ -67,7 +67,7 @@
 
 - type: guideEntry
   id: SecurityandJusticeRegulations
-  name: Security And Justice Regulations
+  name: space-law-security-justice-regulations-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/SecurityandJusticeRegulations.xml
   priority: 1
   children:
@@ -87,7 +87,7 @@
 # Hearings Main Directory
 - type: guideEntry
   id: Hearings
-  name: Hearings
+  name: space-law-hearings-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/Hearings/Hearings.xml
   priority: 1
   children:
@@ -97,25 +97,25 @@
 
 - type: guideEntry
   id: ControlledItems
-  name: Controlled Items
+  name: space-law-controlled-items-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/ControlledItems.xml
 
 
 - type: guideEntry
   id: ControlledSub
-  name: Controlled Substances
+  name: space-law-controlled-substances-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/ControlledSub.xml
 
 
 - type: guideEntry
   id: ControlledArms
-  name: Controlled Armaments
+  name: space-law-controlled-armaments-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/ControlledArms.xml
 
 
 - type: guideEntry
   id: HSA
-  name: High Security Areas
+  name: space-law-hsa-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/HighSecurity.xml
 
 
@@ -123,95 +123,95 @@
 
 - type: guideEntry
   id: LogisticsDisp
-  name: Logistics
+  name: space-law-logistics-dispensation-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/DepartmentalDisp/LogisticsDisp.xml
 
 
 - type: guideEntry
   id: ResearchDisp
-  name: Research
+  name: space-law-research-dispensation-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/DepartmentalDisp/ResearchDisp.xml
 
 
 - type: guideEntry
   id: MedicalDisp
-  name: Medical
+  name: space-law-medical-dispensation-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/ControlledISA/DepartmentalDisp/MedicalDisp.xml
 
 
 ## Security And Justice Regulations entries
 - type: guideEntry
   id: SecurityJurisdiction
-  name: Security Jurisdiction
+  name: space-law-security-jurisdiction-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/SecurityJurisdiction.xml
 
 
 - type: guideEntry
   id: ProbableCause
-  name: Probable Cause
+  name: space-law-probable-cause-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/ProbableCause.xml
 
 
 - type: guideEntry
   id: RulesOfEngagement
-  name: Rules Of Engagement
+  name: space-law-roe-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/RulesOfEngagement.xml
 
 
 - type: guideEntry
   id: MartialLaw
-  name: Martial Law
+  name: space-law-martial-law-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/MartialLaw.xml
 
 
 - type: guideEntry
   id: ArmoryProcedure
-  name: Armory Procedure
+  name: space-law-armory-procedure-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/ArmoryProcedure.xml
 
 
 - type: guideEntry
   id: TreatmentOfPrisoners
-  name: Treatment Of Prisoners
+  name: space-law-treatment-prisoners-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/TreatmentOfPrisoners.xml
 
 
 - type: guideEntry
   id: ArrestandSentencing
-  name: Arrest & Sentencing
+  name: space-law-arresting-sentencing-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/ArrestandSentencing.xml
 
 
 - type: guideEntry
   id: AppealsParolePardons
-  name: Appeals Parole Pardons
+  name: space-law-appeals-parole-pardons-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/AppealsParolePardons.xml
 
 
 - type: guideEntry
   id: PressingCriminalCharges
-  name: Pressing Criminal Charges
+  name: space-law-pressing-criminal-charges-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/PressingCriminalCharges.xml
 
 
 - type: guideEntry
   id: Warrants
-  name: Warrants
+  name: space-law-warrants-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/Warrants.xml
 
 
 - type: guideEntry
   id: Injunctions
-  name: Injunctions
+  name: space-law-injuctions-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/Injunctions.xml
 
 - type: guideEntry
   id: InformedConsent
-  name: Informed Consent
+  name: space-law-informed-consent-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/SecurityandJusticeRegulations/InformedConsent.xml
 
 ## Hearings Entries
 - type: guideEntry
   id: HearingProcedure
-  name: Hearing Procedure
+  name: space-law-hearing-procedure-name
   text: /ServerInfo/Guidebook/_DV/SpaceLaw/Hearings/HearingProcedure.xml
